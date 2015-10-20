@@ -1,0 +1,50 @@
+<ConfigurationData>
+	<Program>
+		<programName>outlook</programName> 
+		<monitorNumber>3</monitorNumber>
+		<monitorSide>full</monitorSide>
+		<programWidth>full</programWidth>
+		<searchString>Outlook</searchString>
+		<startupTime>15</startupTime>
+	</Program>
+	<Program>
+		<programName>notepad++</programName> 
+		<monitorNumber>1</monitorNumber>
+		<monitorSide>left</monitorSide>
+		<programWidth>-500</programWidth>
+		<searchString>Notepad++</searchString>
+		<startupTime>1</startupTime>
+	</Program>
+	<Program>
+		<programName>explorer</programName> 
+		<monitorNumber>2</monitorNumber>
+		<monitorSide>left</monitorSide>
+		<programWidth>half</programWidth>
+		<searchString>This PC</searchString>
+		<startupTime>1</startupTime>
+	</Program>
+	<Program>
+		<programName>lync</programName> 
+		<monitorNumber>1</monitorNumber>
+		<monitorSide>right</monitorSide>
+		<programWidth>500</programWidth>
+		<searchString>Skype</searchString>
+		<startupTime>10</startupTime>
+	</Program>
+	<Program>
+		<programName>chrome</programName> 
+		<monitorNumber>2</monitorNumber>
+		<monitorSide>right</monitorSide>
+		<programWidth>half</programWidth>
+		<searchString>Chrome</searchString>
+		<startupTime>1</startupTime>
+	</Program>
+	<Program>
+		<programName>pidgin</programName> 
+		<monitorNumber>1</monitorNumber>
+		<monitorSide>right</monitorSide>
+		<programWidth>500</programWidth>
+		<searchString>Buddy List</searchString>
+		<startupTime>1</startupTime>
+	</Program>
+</ConfigurationData>
