@@ -25,7 +25,7 @@ def get_app_list(handles=[]):
     return mlst
 
 # Initialize Variables
-configFileName = 'StartupAndResizerConfig.xml'
+configFileName = 'WindowResizerConfig.xml'
 sortedMonitorData = sorted(win32api.EnumDisplayMonitors(0), key=lambda xaxis: xaxis[2][0]) # list of monitor data, sorted by x-axis to ensure they're listed according to display from left to right
 numberOfMonitors = len(sortedMonitorData)
 programList = []
