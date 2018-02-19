@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <everything>
 	<playerDetails>
+		<hero name="Lindsay" personalPronoun="she" objectPronoun="her"/>
 		<npc1 name="Aurora" personalPronoun="she" objectPronoun="her"/>
 		<npc2 name="Parka" personalPronoun="he" objectPronoun="him"/>
 		<npc3 name="Ryan" personalPronoun="she" objectPronoun="her"/>
