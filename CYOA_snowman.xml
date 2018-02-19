@@ -7,31 +7,31 @@
 		<npc4 name="Charlie" personalPronoun="he" objectPronoun="him"/>
 	</playerDetails>
 	<questions>
-		<question id="0">
+		<page id="0">
 			<qtext>Establishing narrative - A bird lands on the sill of your open bedroom window with a note in its beak. You greet the bird - "Oh! Hey little guy. Let's see what you've got there"</qtext>
 			<a1text>Pet bird</a1text>
 			<a2text>Read note</a2text>
 			<a3text> - </a3text>
 		</question>
-		<question id="01">
+		<page id="01">
 			<qtext>You pet the bird and introduce yourself - "Hi there! I'm NPC1. You must be delivering something important if you're here before breakfast. Let me see this note..."</qtext>
 			<a1text redirect="02">Read note</a1text>
 			<a2text> - </a2text>
 			<a3text> - </a3text>
 		</question>
-		<question id="02">
+		<page id="02">
 			<qtext>You read the note. "NPC1 - Need your help. Come see me as soon as you wake up. - NPC2." That's a little vague - NPC2 isn't usally so dramatic. You decide you better go see what the old bear needs.</qtext>
 			<a1text>Thank the bird and head to NPC2's den</a1text>
 			<a2text> - </a2text>
 			<a3text> - </a3text>
 		</question>
-		<question id="021">
+		<page id="021">
 			<qtext>Arriving you see NPC2 and ask "Hey - is everything okay?". NPC2 replies "Yes, yes... I trust the messenger bird reached your home? Good. Thank you for coming on such short notice. I had to... well... see for yourself" and with that, NPC2 gestures towards a top hat on a table</qtext>
 			<a1text>Reply "A hat?"</a1text>
 			<a2text redirect="0211">Examine the hat silently</a2text>
 			<a3text>Annoyed at OP2 you blurt out "You woke me up for this?"</a3text>
 		</question>
-		<question id="0211">
+		<page id="0211">
 			<qtext>NPC2 starts "This hat arrived via messenger bird last night. Just the hat - no note. No indication of who sent it"
 "A gift perhaps?" NPC1 offers
 "Top hats aren't exactly my style. It is THE MOST FAMOUS HAT EVER!"</qtext>
@@ -39,128 +39,128 @@
 			<a2text>Stay silent</a2text>
 			<a3text redirect="0213">Just tell me already</a3text>
 		</question>
-		<question id="0213">
+		<page id="0213">
 			<qtext>It's Frosty's hat chump! Now pay attention. You need to find Frosty up north</qtext>
 			<a1text redirect="021111">How do you know frosty?</a1text>
 			<a2text redirect="021112">This has to be a mistake</a2text>
 			<a3text redirect="021113">This doesn't make any sense</a3text>
 		</question>
-		<question id="02111">
+		<page id="02111">
 			<qtext>Yes freaking way now pay attention. You gots to go north and find Frosty</qtext>
 			<a1text>How do you know frosty?</a1text>
 			<a2text>This has to be a mistake</a2text>
 			<a3text>This doesn't make any sense</a3text>
 		</question>
-		<question id="02112">
+		<page id="02112">
 			<qtext>Nothing? Okay - go north and find Frosty</qtext>
 			<a1text redirect="021111">How do you know frosty?</a1text>
 			<a2text redirect="021112">This has to be a mistake</a2text>
 			<a3text redirect="021113">This doesn't make any sense</a3text>
 		</question>
-		<question id="021111">
+		<page id="021111">
 			<qtext>We were friends in elementary school - mind your business. Maybe there's a secret message on the hat. He used to be into that kinda stuff</qtext>
 			<a1text>Look in the hat</a1text>
 			<a2text>Look at the brim</a2text>
 			<a3text>Look at the holly</a3text>
 		</question>
-		<question id="021112">
+		<page id="021112">
 			<qtext>Maybe. We need more information. Maybe there's more information we can glean from the hat</qtext>
 			<a1text redirect="0211111">Look in the hat</a1text>
 			<a2text redirect="0211112">Look at the brim</a2text>
 			<a3text redirect="0211113">Look at the holly</a3text>
 		</question>
-		<question id="021113">
+		<page id="021113">
 			<qtext>Yeah, I don't get it either. Want to stare at the hat a while longer?</qtext>
 			<a1text redirect="0211111">Look in the hat</a1text>
 			<a2text redirect="0211112">Look at the brim</a2text>
 			<a3text redirect="0211113">Look at the holly</a3text>
 		</question>
-		<question id="0211111">
+		<page id="0211111">
 			<qtext>Nothing in the hat. Let's check out the holly</qtext>
 			<a1text redirect="0211113">Totally</a1text>
 			<a2text> - </a2text>
 			<a3text> - </a3text>
 		</question>
-		<question id="0211112">
+		<page id="0211112">
 			<qtext>Nothing up with the brim. How about that holly</qtext>
 			<a1text redirect="0211113">Why not</a1text>
 			<a2text> - </a2text>
 			<a3text> - </a3text>
 		</question>
-		<question id="0211113">
+		<page id="0211113">
 			<qtext>HOLY CRAP! Magic holly juice squirted on the wall writing a message - "It's me Frosty, Avalanche is up here and he's just the worst"</qtext>
 			<a1text>An avalanche? Those happen all the time. Frosty needs to calm down</a1text>
 			<a2text>Yup - that all makes perfect sense</a2text>
 			<a3text>Bleep bloop blorp</a3text>
 		</question>
-		<question id="02111131">
+		<page id="02111131">
 			<qtext>Not "An Avalanche" - this is a super angry snowman. Elves and snowmen don't get along and Avalanche's response is to try and murder elves whenever he can</qtext>
 			<a1text>Snowmen are jerks</a1text>
 			<a2text>Elves are jerks</a2text>
 			<a3text>Everyone is a jerk</a3text>
 		</question>
-		<question id="02111132">
+		<page id="02111132">
 			<qtext>Yup. I assume you know all about Avalanche's beef with the elves?</qtext>
 			<a1text redirect="021111311">Totally - Snowmen are jerks</a1text>
 			<a2text redirect="021111312">Yeah - Elves are jerks</a2text>
 			<a3text redirect="021111313">Whatever - Everyone is a jerk</a3text>
 		</question>
-		<question id="02111133">
+		<page id="02111133">
 			<qtext>Um... I think you just had a seizure. Anyways, Avalanche is a snowman that's super duper upset with elves</qtext>
 			<a1text redirect="021111311">Flergh - Snowmen are jerks</a1text>
 			<a2text redirect="021111312">Myehn - Elves are jerks</a2text>
 			<a3text redirect="021111313">Blerghen - Everyone is a jerk</a3text>
 		</question>
-		<question id="021111311">
+		<page id="021111311">
 			<qtext>Um... you are a snowman</qtext>
 			<a1text redirect="021111312">Oh, yeah. I meant elves. Elves are jerks</a1text>
 			<a2text> - </a2text>
 			<a3text> - </a3text>
 		</question>
-		<question id="021111312">
+		<page id="021111312">
 			<qtext>There might be slightly more to it than that</qtext>
 			<a1text redirect="021111313">Whatever. Nuance is for chumps</a1text>
 			<a2text> - </a2text>
 			<a3text> - </a3text>
 		</question>
-		<question id="021111313">
+		<page id="021111313">
 			<qtext>Sure. Let's go with that. Someone needs to save Frosty and I'm super old</qtext>
 			<a1text>I'll do it</a1text>
 			<a2text>Yeah, I'm going to head out and take a nap. Good luck with all that</a2text>
 			<a3text> - </a3text>
 		</question>
-		<question id="0211113131">
+		<page id="0211113131">
 			<qtext>Radical. Find Mr. Cinnamon in town. He's a giant anthropomorphosized cookie so... pretty hard to miss</qtext>
 			<a1text>I'm on it</a1text>
 			<a2text>What chance do we stand against Avalanche?</a2text>
 			<a3text>Lame. I'm doing this myself</a3text>
 		</question>
-		<question id="0211113132">
+		<page id="0211113132">
 			<qtext>You go home and take a nap. When you wake up Avalanche has murdered every living thing in the arctic circle. Um. Besides you. And then he murders you too.</qtext>
 			<a1text redirect="0">You're dead! Click here to restart</a1text>
 			<a2text> - </a2text>
 			<a3text> - </a3text>
 		</question>
-		<question id="02111131311">
+		<page id="02111131311">
 			<qtext>You find Mr. Cinnamon, head north, and totally save the day. Nice freaking job!</qtext>
 			<a1text redirect="0">You win! Click here to restart</a1text>
 			<a2text> - </a2text>
 			<a3text> - </a3text>
 		</question>
-		<question id="02111131312">
+		<page id="02111131312">
 			<qtext>None - we should probably just end our suffering. I'll take care of you first.</qtext>
 			<a1text redirect="0">Yikes - that escalated quickly. You're dead! Click here to restart</a1text>
 			<a2text> - </a2text>
 			<a3text> - </a3text>
 		</question>
-		<question id="02111131313">
+		<page id="02111131313">
 			<qtext>You try to go on your own but without Mr. Cinnamon's intimate knowledge of the North Pole you quickly make a wrong turn, end up on the equator, and melt</qtext>
 			<a1text redirect="0">You're dead! Click here to restart</a1text>
 			<a2text> - </a2text>
 			<a3text> - </a3text>
 		</question>
 		<!--
-		<question id="999">
+		<page id="999">
 			<qtext>ABCD</qtext>
 			<a1text>ABCD</a1text>
 			<a2text>ABCD</a2text>
