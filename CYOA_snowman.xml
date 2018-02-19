@@ -6,7 +6,7 @@
 		<npc3 name="Ryan" personalPronoun="she" objectPronoun="her"/>
 		<npc4 name="Charlie" personalPronoun="he" objectPronoun="him"/>
 	</playerDetails>
-	<questions>
+	<pages>
 		<page id="0">
 			<qtext>Establishing narrative - A bird lands on the sill of your open bedroom window with a note in its beak. You greet the bird - "Oh! Hey little guy. Let's see what you've got there"</qtext>
 			<a1text>Pet bird</a1text>
