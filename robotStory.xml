@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<pages>
+	<page id="0">
+		<qtext>Here's the page text.</qtext>
+		<a1text>VERB 1</a1text>
+		<a2text>VERB 2</a2text>
+		<a3text>VERB 3</a3text>
+	</page>
+</pages>
