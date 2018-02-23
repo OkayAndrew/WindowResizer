@@ -88,38 +88,38 @@
 		</assets>
 	</page>
 	<page id="021">
-		<qtext>You drive to work poorly dressed, but on time. As you get off the elevator on your floor you see a group of co-workers. NAMENPC1 sees you coming and makes a face given how you are dressed. As you approach PP1 mockingly addresses you. ''Could you look like a bigger slob this morning? Seriously, buy an iron!''</qtext>
-		<a1text>Don't just take that from OP1! Punch NAMENPC1 in the face</a1text>
-		<a2text>Run into your office so PP1 won't see you cry</a2text>
+		<qtext>You drive to work poorly dressed, but on time. As you get off the elevator on your floor you see a group of co-workers. Lindsay sees you coming and makes a face given how you are dressed. As you approach she mockingly addresses you. ''Could you look like a bigger slob this morning? Seriously, buy an iron!''</qtext>
+		<a1text>Don't just take that from her! Punch Lindsay in the face</a1text>
+		<a2text>Run into your office so she won't see you cry</a2text>
 		<a3text>Ignore the comment and head to your office</a3text>
 		<assets>
 			<background location="office" time="daytime"/>
 			<hero body="messy suit" face="upset" item="nothing"/>
-			<npc1 character="NAMENPC1" status="insulting"/>
-			<npc2 character="NAMENPC3" status="normal"/>
+			<npc1 character="Lindsay" status="insulting"/>
+			<npc2 character="Dave" status="normal"/>
 		</assets>
 	</page>
 	<page id="022">
-		<qtext>Smelly, but on time you drive to work. As you get off the elevator on your floor you see a group of co-workers. You join on the idle chit chat for a moment when NAMENPC1 makes a face followed by a comment on the bad odor that everyone just noticed.</qtext>
+		<qtext>Smelly, but on time you drive to work. As you get off the elevator on your floor you see a group of co-workers. You join on the idle chit chat for a moment when Lindsay makes a face followed by a comment on the bad odor that everyone just noticed.</qtext>
 		<a1text>Admit that the smell is you, explaining that you were running late this morning</a1text>
-		<a2text>Tell NAMENPC1 that since PP1 smelt it, it must be PP1 who dealt it</a2text>
+		<a2text>Tell Lindsay that since she smelt it, it must be she who dealt it</a2text>
 		<a3text>Ignore the comment and head to your office</a3text>
 		<assets>
 			<background location="office" time="daytime"/>
 			<hero body="stinky suit" face="upset" item="nothing"/>
-			<npc1 character="NAMENPC1" status="insulting"/>
-			<npc2 character="NAMENPC3" status="normal"/>
+			<npc1 character="Lindsay" status="insulting"/>
+			<npc2 character="Dave" status="normal"/>
 		</assets>
 	</page>
 	<page id="023">
-		<qtext>You might be a little late but at least you're looking good. As you start to walk down the hall at your office you see your boss, NAMENPC2, down the hallway, but PP2 doesn't see you yet. Crap! If PP2 turns around and sees that you're late PP2'll start yelling at you.</qtext>
+		<qtext>You might be a little late but at least you're looking good. As you start to walk down the hall at your office you see your boss, Charlie, down the hallway, but he doesn't see you yet. Crap! If he turns around and sees that you're late he'll start yelling at you.</qtext>
 		<a1text>Dive into the closest office</a1text>
 		<a2text>Walk by like everything is normal</a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="office" time="daytime"/>
 			<hero body="suit" face="worried" item="nothing"/>
-			<npc1 character="NAMENPC2" status="normal"/>
+			<npc1 character="Charlie" status="normal"/>
 			<npc2 character="none" status="none"/>
 		</assets>
 	</page>
@@ -136,26 +136,26 @@
 		</assets>
 	</page>
 	<page id="032">
-		<qtext>You finally arrive at the office smelly, poorly dressed, and late. You step into the elevator, already resigned to the fact that this isn't going to be a good day. When the elevator doors open you are standing face to face with your boss, NAMENPC2, who immediately starts chewing you out for being late, which quickly turns into comments about your odor and wrinkled clothing.</qtext>
+		<qtext>You finally arrive at the office smelly, poorly dressed, and late. You step into the elevator, already resigned to the fact that this isn't going to be a good day. When the elevator doors open you are standing face to face with your boss, Charlie, who immediately starts chewing you out for being late, which quickly turns into comments about your odor and wrinkled clothing.</qtext>
 		<a1text>Take the abuse and trod sadly to your office, hoping that you don't end up getting fired</a1text>
-		<a2text>Don't take that abuse! Tell NAMENPC2 to go to hell!</a2text>
+		<a2text>Don't take that abuse! Tell Charlie to go to hell!</a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="office" time="daytime"/>
 			<hero body="messy stinky suit" face="worried" item="nothing"/>
-			<npc1 character="NAMENPC2" status="angry"/>
+			<npc1 character="Charlie" status="angry"/>
 			<npc2 character="none" status="none"/>
 		</assets>
 	</page>
 	<page id="033">
-		<qtext>You are very late but at least you look good. As you start to walk down the hall at your office you see your boss, NAMENPC2, who sees you coming before you can hide. PP2 starts talking to you like everything is fine, not realizing that you are late! This is going to be a good day. You walk into your office and start preparing for the big meeting this afternoon. An hour goes by and you're starting to get hungry.</qtext>
+		<qtext>You are very late but at least you look good. As you start to walk down the hall at your office you see your boss, Charlie, who sees you coming before you can hide. he starts talking to you like everything is fine, not realizing that you are late! This is going to be a good day. You walk into your office and start preparing for the big meeting this afternoon. An hour goes by and you're starting to get hungry.</qtext>
 		<a1text>See if any of your co-workers want to go out for lunch</a1text>
 		<a2text>Go get lunch by yourself</a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="office" time="daytime"/>
 			<hero body="suit" face="happy" item="nothing"/>
-			<npc1 character="NAMENPC2" status="normal"/>
+			<npc1 character="Charlie" status="normal"/>
 			<npc2 character="none" status="none"/>
 		</assets>
 	</page>
@@ -173,14 +173,14 @@
 		</assets>
 	</page>
 	<page id="0112">
-		<qtext>You decide to get some coffee if you're going to be able to prepare properly for the big meeting this afternoon. While you're waiting to order at the coffee shop you notice the very attractive person in front of you in line. PPROMANTIC orders, you order, and you find yourself next to OPROMANTIC waiting for your drinks. You also notice a shipment of scones perched precariously on a high shelf - probably nothing to be concerned about.</qtext>
-		<a1text>Start talking to OPROMANTIC</a1text>
-		<a2text>PPROMANTIC probably isn't interested. Just grab your coffee and go to work.</a2text>
+		<qtext>You decide to get some coffee if you're going to be able to prepare properly for the big meeting this afternoon. While you're waiting to order at the coffee shop you notice the very attractive person in front of you in line. he orders, you order, and you find yourself next to him waiting for your drinks. You also notice a shipment of scones perched precariously on a high shelf - probably nothing to be concerned about.</qtext>
+		<a1text>Start talking to him</a1text>
+		<a2text>he probably isn't interested. Just grab your coffee and go to work.</a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="coffee shop" time="daytime"/>
 			<hero body="suit" face="normal" item="nothing"/>
-			<npc1 character="NAMEROMANTIC" status="normal"/>
+			<npc1 character="Frank" status="normal"/>
 			<npc2 character="coffee worker" status="normal"/>
 		</assets>
 	</page>
@@ -197,51 +197,51 @@
 		</assets>
 	</page>
 	<page id="0122">
-		<qtext>You decide to get some coffee if you're going to be able to prepare properly for the big meeting this afternoon. While you're waiting to order at the coffee shop you notice the very attractive person in front of you in line. PPROMANTIC orders, you order, and you find yourself next to OPROMANTIC waiting for your drinks. You also notice a shipment of scones perched precariously on a high shelf - probably nothing to be concerned about.</qtext>
-		<a1text>Start talking to OPROMANTIC</a1text>
-		<a2text>PPROMANTIC probably isn't interested. Just grab your coffee and go to work.</a2text>
+		<qtext>You decide to get some coffee if you're going to be able to prepare properly for the big meeting this afternoon. While you're waiting to order at the coffee shop you notice the very attractive person in front of you in line. he orders, you order, and you find yourself next to him waiting for your drinks. You also notice a shipment of scones perched precariously on a high shelf - probably nothing to be concerned about.</qtext>
+		<a1text>Start talking to him</a1text>
+		<a2text>he probably isn't interested. Just grab your coffee and go to work.</a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="coffee shop" time="daytime"/>
 			<hero body="causal" face="normal" item="nothing"/>
-			<npc1 character="NAMEROMANTIC" status="normal"/>
+			<npc1 character="Frank" status="normal"/>
 			<npc2 character="coffee worker" status="normal"/>
 		</assets>
 	</page>
 	<page id="0131">
-		<qtext>You decide to pass on the coffee and drive straight to work. As you get off the elevator on your floor you see a group of co-workers. NAMENPC1 is the first to see you coming and is shocked to see you approach wearing nothing but socks. As you approach the group PP1 addresses you. ''Why on earth are you naked?''</qtext>
-		<a1text>Explain to NAMENPC1 that you are wearing socks, so you're not technically naked</a1text>
-		<a2text redirect="01311">Tell NAMENPC1 to go to hell</a2text>
+		<qtext>You decide to pass on the coffee and drive straight to work. As you get off the elevator on your floor you see a group of co-workers. Lindsay is the first to see you coming and is shocked to see you approach wearing nothing but socks. As you approach the group she addresses you. ''Why on earth are you naked?''</qtext>
+		<a1text>Explain to Lindsay that you are wearing socks, so you're not technically naked</a1text>
+		<a2text redirect="01311">Tell Lindsay to go to hell</a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="office" time="daytime"/>
 			<hero body="socks" face="normal" item="nothing"/>
-			<npc1 character="NAMENPC1" status="shocked"/>
-			<npc2 character="NAMENPC3" status="shocked"/>
+			<npc1 character="Lindsay" status="shocked"/>
+			<npc2 character="Dave" status="shocked"/>
 		</assets>
 	</page>
 	<page id="0132">
 		<qtext>You could use a little boost so you decide to stop for coffee. As you get out of your car in the parking lot you notice that it's a bit colder than you expected. You enter the coffee shop to the audible gasps of the other patrons. You notice a very attractive person already in line.</qtext>
-		<a1text>Start talking to OPROMANTIC</a1text>
+		<a1text>Start talking to him</a1text>
 		<a2text>Order coffee as normal, except of course for the fact that you're only wearing socks</a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="coffee shop" time="daytime"/>
 			<hero body="socks" face="normal" item="nothing"/>
-			<npc1 character="NAMEROMANTIC" status="normal"/>
+			<npc1 character="Frank" status="normal"/>
 			<npc2 character="coffee worker" status="normal"/>
 		</assets>
 	</page>
 	<page id="0211">
-		<qtext>Pushed too far by NAMENPC1's comment about your clothing you punch OP1 in the face. The blow knocks OP1 back and PP1 hits against the wall, slumping instantly to the ground. ''Holy crap, you killed OP1!'' exclaims NAMENPC3, seemingly too soon as NAMENPC1 slowly rises from the floor. ''I am so glad you're okay'' NAMENPC3 starts, but is cut off when NAMENPC1 suddenly attacks OP3, tackling OP3 to the ground and biting OP3 on the arm. NAMENPC1, or whatever this monster is that once was NAMENPC1, turns and looks at you with vacant eyes.</qtext>
-		<a1text>Apologize to NAMENPC1 for hitting OP1</a1text>
+		<qtext>Pushed too far by Lindsay's comment about your clothing you punch her in the face. The blow knocks her back and she hits against the wall, slumping instantly to the ground. ''Holy crap, you killed her!'' exclaims Dave, seemingly too soon as Lindsay slowly rises from the floor. ''I am so glad you're okay'' Dave starts, but is cut off when Lindsay suddenly attacks him, tackling him to the ground and biting him on the arm. Lindsay, or whatever this monster is that once was Lindsay, turns and looks at you with vacant eyes.</qtext>
+		<a1text>Apologize to Lindsay for hitting her</a1text>
 		<a2text>Run!</a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="office" time="daytime"/>
 			<hero body="messy suit" face="panicked" item="nothing"/>
-			<npc1 character="NAMENPC1" status="zombified"/>
-			<npc2 character="NAMENPC3" status="bleeding"/>
+			<npc1 character="Lindsay" status="zombified"/>
+			<npc2 character="Dave" status="bleeding"/>
 		</assets>
 	</page>
 	<page id="0212">
@@ -257,7 +257,7 @@
 		</assets>
 	</page>
 	<page id="0213">
-		<qtext>You ignore NAMENPC1's comment and walk past OP1 to your office. When you get there you remember that you left a suit from the dry cleaners hanging on hook on the back of your door. You change into the nicely pressed suit to avoid further ridicule and get to work. After a while you find yourself starting to get hungry.</qtext>
+		<qtext>You ignore Lindsay's comment and walk past her to your office. When you get there you remember that you left a suit from the dry cleaners hanging on hook on the back of your door. You change into the nicely pressed suit to avoid further ridicule and get to work. After a while you find yourself starting to get hungry.</qtext>
 		<a1text  redirect="0331">See if any of your co-workers want to go out for lunch</a1text>
 		<a2text  redirect="0332">They were mean to you earlier. Go get lunch by yourself</a2text>
 		<a3text> - </a3text>
@@ -269,7 +269,7 @@
 		</assets>
 	</page>
 	<page id="0221">
-		<qtext>''That's right, I smell bad right now, but I'll shower later and smell nice. However, you'll be ugly for the rest of your life'' you reply to NAMENPC1. You then walk past the group, feeling good about standing up to OP1. You arrive at your office and start preparing for the afternoon meeting. After a while you find yourself starting to get hungry.</qtext>
+		<qtext>''That's right, I smell bad right now, but I'll shower later and smell nice. However, you'll be ugly for the rest of your life'' you reply to Lindsay. You then walk past the group, feeling good about standing up to her. You arrive at your office and start preparing for the afternoon meeting. After a while you find yourself starting to get hungry.</qtext>
 		<a1text>See if any of your co-workers want to go out for lunch</a1text>
 		<a2text>They were mean to you earlier. Go get lunch by yourself</a2text>
 		<a3text> - </a3text>
@@ -281,7 +281,7 @@
 		</assets>
 	</page>
 	<page id="0222">
-		<qtext>While PP1 is thinking about that you continue past the group and walk into your office. You immediately bury yourself in your work, preparing for the afternoon meeting. After a while you find yourself starting to get hungry.</qtext>
+		<qtext>While she is thinking about that you continue past the group and walk into your office. You immediately bury yourself in your work, preparing for the afternoon meeting. After a while you find yourself starting to get hungry.</qtext>
 		<a1text redirect="02211">See if any of your co-workers want to go out for lunch</a1text>
 		<a2text redirect="02212">They were mean to you earlier. Go get lunch by yourself</a2text>
 		<a3text> - </a3text>
@@ -293,7 +293,7 @@
 		</assets>
 	</page>
 	<page id="0223">
-		<qtext>You try to ignore the comment and just keep walking but NAMENPC1 just won't let it go, continuing to insult you as you walk away. What a jerk. You get into your office and start working, but after a while you start to get hungry.</qtext>
+		<qtext>You try to ignore the comment and just keep walking but Lindsay just won't let it go, continuing to insult you as you walk away. What a jerk. You get into your office and start working, but after a while you start to get hungry.</qtext>
 		<a1text redirect="02211">See if any of your co-workers want to go out for lunch</a1text>
 		<a2text redirect="02212">They were mean to you earlier. Go get lunch by yourself</a2text>
 		<a3text> - </a3text>
@@ -305,7 +305,7 @@
 		</assets>
 	</page>
 	<page id="0231">
-		<qtext>You dive into an empty office and hide behind the desk. After a few minutes you figure that PP2 must have walked past by now. You stick your head out the doorway and the coast is clear. NAMENPC2 is nowhere in sight. You continue down the hall to your office and start working for the big afternoon presentation. After a while you start to get hungry.</qtext>
+		<qtext>You dive into an empty office and hide behind the desk. After a few minutes you figure that he must have walked past by now. You stick your head out the doorway and the coast is clear. Charlie is nowhere in sight. You continue down the hall to your office and start working for the big afternoon presentation. After a while you start to get hungry.</qtext>
 		<a1text redirect="0331">See if any of your co-workers want to go out for lunch</a1text>
 		<a2text redirect="0332">Go get lunch by yourself</a2text>
 		<a3text> - </a3text>
@@ -317,14 +317,14 @@
 		</assets>
 	</page>
 	<page id="0232">
-		<qtext>Crap. You figure it's too late now to hide and walk right past NAMENPC2. As you get closer PP2 looks at you, slightly surpsised and asks if you are just getting into the office now.</qtext>
+		<qtext>Crap. You figure it's too late now to hide and walk right past Charlie. As you get closer he looks at you, slightly surpsised and asks if you are just getting into the office now.</qtext>
 		<a1text>Lie! Claim you've been here all morning and are just walking back from the bathroom</a1text>
 		<a2text>Fess up to being late. Honesty is the best policy</a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="office" time="daytime"/>
 			<hero body="suit" face="panicked" item="nothing"/>
-			<npc1 character="NAMENPC2" status="normal"/>
+			<npc1 character="Charlie" status="normal"/>
 			<npc2 character="none" status="none"/>
 		</assets>
 	</page>
@@ -377,19 +377,19 @@
 		</assets>
 	</page>
 	<page id="0322">
-		<qtext>NAMENPC2 looks shocked at your comments and you brace yourself for a response which never comes. Instead PP2 winces in pain and drops dead from a heart attack. Holy crap; that was an unexpected consequence! You yell for help but turn back when you see OP2 moving. Phew, PP2 isn't dead.</qtext>
-		<a1text>Help OP2 up and recommend that PP2 get immediate medical attention</a1text>
-		<a2text>Let OP2 get up by himself. You stand by your comments </a2text>
+		<qtext>Charlie looks shocked at your comments and you brace yourself for a response which never comes. Instead he winces in pain and drops dead from a heart attack. Holy crap; that was an unexpected consequence! You yell for help but turn back when you see him moving. Phew, he isn't dead.</qtext>
+		<a1text>Help him up and recommend that he get immediate medical attention</a1text>
+		<a2text>Let him get up by himself. You stand by your comments </a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="office" time="daytime"/>
 			<hero body="messy stinky suit" face="normal" item="nothing"/>
-			<npc1 character="NAMENPC2" status="zombified"/>
+			<npc1 character="Charlie" status="zombified"/>
 			<npc2 character="none" status="none"/>
 		</assets>
 	</page>
 	<page id="0331">
-		<qtext>You head down the hall and ask NAMENPC3 and NAMENPC4 if they want to join you for lunch. They agree and the three of you get in your car and head to Hooters, which was NAMENPC4's idea. You turn on the car radio to catch the middle of a news report. ''The dead are apparently coming back to life. We urge everyone to stay indoors and barricade the entrances'' the broadcaster says. The three of you exchange looks in the car and try to determine your next move.</qtext>
+		<qtext>You head down the hall and ask Dave and April if they want to join you for lunch. They agree and the three of you get in your car and head to Hooters, which was April's idea. You turn on the car radio to catch the middle of a news report. ''The dead are apparently coming back to life. We urge everyone to stay indoors and barricade the entrances'' the broadcaster says. The three of you exchange looks in the car and try to determine your next move.</qtext>
 		<a1text>Head to Hooters</a1text>
 		<a2text>Go back to the office</a2text>
 		<a3text> - </a3text>
@@ -414,8 +414,8 @@
 	</page>
 	<!-- PAGE 5 -->
 	<page id="01121">
-		<qtext>As you approach OPROMANTIC your nice suit awakens childhood issues of never getting enough attention from workaholic parents. This causes an immediate attraction and PPROMANTIC writes down a phone number, saying ''I'm NAMEROMANTIC''. Smooth! You go to work feeling confident and start preparing for your afternoon meeting, but keep thinking of OPROMANTIC. After a while you start to get hungry. Now you're thinking about lunch</qtext>
-		<a1text>Call NAMEROMANTIC to join you for lunch</a1text>
+		<qtext>As you approach him your nice suit awakens childhood issues of never getting enough attention from workaholic parents. This causes an immediate attraction and he writes down a phone number, saying ''I'm Frank''. Smooth! You go to work feeling confident and start preparing for your afternoon meeting, but keep thinking of him. After a while you start to get hungry. Now you're thinking about lunch</qtext>
+		<a1text>Call Frank to join you for lunch</a1text>
 		<a2text redirect="0332">Don't come across as desperate, go eat lunch by yourself</a2text>
 		<a3text redirect="0331">See if any of your co-workers want to go out for lunch</a3text>
 		<assets>
@@ -426,19 +426,19 @@
 		</assets>
 	</page>
 	<page id="01122">
-		<qtext>You grab your coffee and head to the office thinking that it probably wouldn't have worked out with OPROMANTIC anyways. You start to prepare for the big meeting this afternoon but the suit is making you uncomfortable and you keep thinking that you should have asked OPROMANTIC out at the coffee shop. You're so distracted that you don't get much work done before lunch time.</qtext>
+		<qtext>You grab your coffee and head to the office thinking that it probably wouldn't have worked out with him anyways. You start to prepare for the big meeting this afternoon but the suit is making you uncomfortable and you keep thinking that you should have asked him out at the coffee shop. You're so distracted that you don't get much work done before lunch time.</qtext>
 		<a1text redirect="0331">See if any of your co-workers want to go out for lunch</a1text>
 		<a2text redirect="0332">Go get lunch by yourself</a2text>
 		<a3text>Keep working. You didn't get much done this morning so you shouldn't take off for lunch</a3text>
 		<assets>
 			<background location="coffee shop" time="daytime"/>
 			<hero body="causal" face="normal" item="nothing"/>
-			<npc1 character="NAMEROMANTIC" status="normal"/>
+			<npc1 character="Frank" status="normal"/>
 			<npc2 character="coffee worker" status="normal"/>
 		</assets>
 	</page>
 	<page id="01221">
-		<qtext>You approach and use your best pickup line on OPROMANTIC, but PPROMANTIC blows you off, citing the recent end of a long term relationship. You go to work feeling a little bummed out and start preparing for your afternoon meeting. After a while you start to get hungry.</qtext>
+		<qtext>You approach and use your best pickup line on him, but he blows you off, citing the recent end of a long term relationship. You go to work feeling a little bummed out and start preparing for your afternoon meeting. After a while you start to get hungry.</qtext>
 		<a1text redirect="0331">See if any of your co-workers want to go out for lunch</a1text>
 		<a2text redirect="0332">Go get lunch by yourself</a2text>
 		<a3text> - </a3text>
@@ -450,7 +450,7 @@
 		</assets>
 	</page>
 	<page id="01222">
-		<qtext>You grab your coffee and head to the office thinking that it probably wouldn't have worked out with OPHERO anyways. You start to prepare for the big meeting this afternoon and get a lot of work done because you feel so comfortable not wearing a suit. After a while you start to get hungry for lunch.</qtext>
+		<qtext>You grab your coffee and head to the office thinking that it probably wouldn't have worked out with her anyways. You start to prepare for the big meeting this afternoon and get a lot of work done because you feel so comfortable not wearing a suit. After a while you start to get hungry for lunch.</qtext>
 		<a1text redirect="0331">See if any of your co-workers want to go out for lunch</a1text>
 		<a2text redirect="0332">Go get lunch by yourself</a2text>
 		<a3text> - </a3text>
@@ -462,7 +462,7 @@
 		</assets>
 	</page>
 	<page id="01311">
-		<qtext>While NAMENPC1 thinks about what you said you continue to walk down the hall to your office. After about five minutes of checking email your boss, NAMENPC2, stops by your office and explains that you're not following the dress code at the company.</qtext>
+		<qtext>While Lindsay thinks about what you said you continue to walk down the hall to your office. After about five minutes of checking email your boss, Charlie, stops by your office and explains that you're not following the dress code at the company.</qtext>
 		<a1text>Quit and storm out</a1text>
 		<a2text>Agree to go home and change</a2text>
 		<a3text> - </a3text>
@@ -474,7 +474,7 @@
 		</assets>
 	</page>
 	<page id="01321">
-		<qtext>You approach OPROMANTIC and use your best pickup line on OPROMANTIC. Instead of a succumbing to your charm PPROMANTIC pulls out mace, sprays it in your eyes, and you drop to the floor. When you can finally open your eyes again you see cops coming in through the front door of the coffee shop</qtext>
+		<qtext>You approach him and use your best pickup line on him. Instead of a succumbing to your charm he pulls out mace, sprays it in your eyes, and you drop to the floor. When you can finally open your eyes again you see cops coming in through the front door of the coffee shop</qtext>
 		<a1text>Try to run</a1text>
 		<a2text>Try to fight the cops</a2text>
 		<a3text>Cooperate and let them arrest you</a3text>
@@ -498,31 +498,31 @@
 		</assets>
 	</page>
 	<page id="02111">
-		<qtext>You start to apologize to NAMENPC1 about hitting OP1, explaining that it was also wrong for OP1 to maul and bite NAMENPC3. All you get is a blank stare, as PP1 doesn't appear to register your sincere apology. In fact, PP1 almost looks hungry…</qtext>
-		<a1text>Apologize again and offer to buy OP1 lunch</a1text>
+		<qtext>You start to apologize to Lindsay about hitting her, explaining that it was also wrong for her to maul and bite Dave. All you get is a blank stare, as she doesn't appear to register your sincere apology. In fact, she almost looks hungry…</qtext>
+		<a1text>Apologize again and offer to buy her lunch</a1text>
 		<a2text redirect="02112">Run!</a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="office" time="daytime"/>
 			<hero body="messy suit" face="normal" item="nothing"/>
-			<npc1 character="NAMENPC1" status="zombified"/>
-			<npc2 character="NAMENPC3" status="bleeding"/>
+			<npc1 character="Lindsay" status="zombified"/>
+			<npc2 character="Dave" status="bleeding"/>
 		</assets>
 	</page>
 	<page id="02112">
-		<qtext>It seems like an appropriate time to get the hell out of there. As you run down the hall you see a zombified NAMENPC3 get up from behind NAMENPC1. They emit low, terrifying moans and begin to shuffle down the hall after you. NAMENPC4's head pops out of an office doorway as you run by, looking to see what the commotion is all about.</qtext>
-		<a1text>Yell at NAMENPC4 to follow you</a1text>
-		<a2text>Keep running. Maybe the zombies will slow down to eat NAMENPC4, buying you more time</a2text>
+		<qtext>It seems like an appropriate time to get the hell out of there. As you run down the hall you see a zombified Dave get up from behind Lindsay. They emit low, terrifying moans and begin to shuffle down the hall after you. April's head pops out of an office doorway as you run by, looking to see what the commotion is all about.</qtext>
+		<a1text>Yell at April to follow you</a1text>
+		<a2text>Keep running. Maybe the zombies will slow down to eat April, buying you more time</a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="office" time="daytime"/>
 			<hero body="messy suit" face="panicked" item="nothing"/>
-			<npc1 character="NAMENPC1" status="zombified"/>
-			<npc2 character="NAMENPC4" status="normal"/>
+			<npc1 character="Lindsay" status="zombified"/>
+			<npc2 character="April" status="normal"/>
 		</assets>
 	</page>
 	<page id="02211">
-		<qtext>You ask your co-workers NAMENPC3 and NAMENPC4 if they want to join you for lunch. They both say no, claiming that they have work to do but really it's because of your terrible body odor. You walk alone to the nearby Subway to grab a sandwich feeling depressed and not noticing the unusual number of police cars and ambulances driving by on the road.When you arrive at Subway all the patrons and workers are huddled around a small TV. A broadcaster is saying something you can't quite make out but the headline on the screen reads ''The dead live! Zombie attacks reported across the city''</qtext>
+		<qtext>You ask your co-workers Dave and April if they want to join you for lunch. They both say no, claiming that they have work to do but really it's because of your terrible body odor. You walk alone to the nearby Subway to grab a sandwich feeling depressed and not noticing the unusual number of police cars and ambulances driving by on the road.When you arrive at Subway all the patrons and workers are huddled around a small TV. A broadcaster is saying something you can't quite make out but the headline on the screen reads ''The dead live! Zombie attacks reported across the city''</qtext>
 		<a1text>You're still hungry. Get something to eat</a1text>
 		<a2text>Go back to the office</a2text>
 		<a3text> - </a3text>
@@ -546,26 +546,26 @@
 		</assets>
 	</page>
 	<page id="02321">
-		<qtext>Confronted by your boss for being late you quickly make up a story, claiming that you just got back from the bathroom. Unfortunately, PP2 saw you driving up to the building out the window a few seconds ago and berates you for lying. Suddenly PP2 stops yelling at you and winces in pain. A second later PP2 drops dead from a heart attack. Wow! Serves OP1 right for yelling at you. You call out for help but turn back when you see NAMENPC2 moving. Apparently PP2 isn't dead after all.</qtext>
-		<a1text redirect="03221">Help OP2 up and recommend that PP2 get immediate medical attention</a1text>
-		<a2text redirect="03222">Let OP2 get up by OP2self.</a2text>
+		<qtext>Confronted by your boss for being late you quickly make up a story, claiming that you just got back from the bathroom. Unfortunately, he saw you driving up to the building out the window a few seconds ago and berates you for lying. Suddenly he stops yelling at you and winces in pain. A second later he drops dead from a heart attack. Wow! Serves her right for yelling at you. You call out for help but turn back when you see Charlie moving. Apparently he isn't dead after all.</qtext>
+		<a1text redirect="03221">Help him up and recommend that he get immediate medical attention</a1text>
+		<a2text redirect="03222">Let him get up by himself.</a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="office" time="daytime"/>
 			<hero body="suit" face="cautious" item="nothing"/>
-			<npc1 character="NAMENPC2" status="zombified"/>
+			<npc1 character="Charlie" status="zombified"/>
 			<npc2 character="none" status="none"/>
 		</assets>
 	</page>
 	<page id="02322">
-		<qtext>You fess up that you were late, cowering in anticipation of your boss' reaction. About to yell, PP2 stops himself and calmly tells you that PP2 saw you drive up to the building a second ago and that you should immediately get to work on your big afternoon meeting. Wow. Apparently PP2 is trying to working harder not to scream at people during work. It's a good thing you didn't push OP2 further by lying. You go to your office and get to work, but after a while you start to get hungry.</qtext>
+		<qtext>You fess up that you were late, cowering in anticipation of your boss' reaction. About to yell, he stops himself and calmly tells you that he saw you drive up to the building a second ago and that you should immediately get to work on your big afternoon meeting. Wow. Apparently he is trying to working harder not to scream at people during work. It's a good thing you didn't push him further by lying. You go to your office and get to work, but after a while you start to get hungry.</qtext>
 		<a1text redirect="0331">See if any of your co-workers want to go out for lunch</a1text>
 		<a2text redirect="0332">Go get lunch by yourself</a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="office" time="daytime"/>
 			<hero body="suit" face="normal" item="nothing"/>
-			<npc1 character="NAMENPC2" status="normal"/>
+			<npc1 character="Charlie" status="normal"/>
 			<npc2 character="none" status="none"/>
 		</assets>
 	</page>
@@ -606,51 +606,51 @@
 		</assets>
 	</page>
 	<page id="03132">
-		<qtext>You leave the apartment wielding the blood splattered frying pan and step into the elevator. As the doors open into the lobby you see three zombies standing over parts of what must have once been the mailman. Using the element of surprise you get a few good swings, killing two of them but leaving yourself vulnerable to the third. It starts to lunge at you but is shot in the head, falling backwards. You look behind yourself and see an attractive girl with a pistol. ''NAMEROMANTIC, 5E''. You respond ''NAMEHERO, 7B''. Now what's the plan?</qtext>
-		<a1text>Go to your apartment with NAMEROMANTIC and try to zombie-proof the floor</a1text>
-		<a2text>Head to the local bar with NAMEROMANTIC and try to wait out the invasion there</a2text>
+		<qtext>You leave the apartment wielding the blood splattered frying pan and step into the elevator. As the doors open into the lobby you see three zombies standing over parts of what must have once been the mailman. Using the element of surprise you get a few good swings, killing two of them but leaving yourself vulnerable to the third. It starts to lunge at you but is shot in the head, falling backwards. You look behind yourself and see an attractive girl with a pistol. ''Frank, 5E''. You respond ''Beatrice, 7B''. Now what's the plan?</qtext>
+		<a1text>Go to your apartment with Frank and try to zombie-proof the floor</a1text>
+		<a2text>Head to the local bar with Frank and try to wait out the invasion there</a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="apartment lobby" time="daytime"/>
 			<hero body="pajamas" face="normal" item="frying pan"/>
-			<npc1 character="NAMEROMANTIC" status="gun"/>
+			<npc1 character="Frank" status="gun"/>
 			<npc2 character="none" status="none"/>
 		</assets>
 	</page>
 	<page id="03213">
-		<qtext>You decide to keep working but after an hour people are running franticly down the halls. NAMENPC3 and NAMENPC4 stop by your office and tell you that the dead are rising and attacking the living. You check the news online to make sure it's not a joke and see that all the major news outlets are saying the same thing. You decide the best idea is to stockpile supplies and try to barricade yourself on the top floor of the building. Now you wonder whether to share your plan with others or go it alone.</qtext>
-		<a1text>Tell NAMENPC3 and NAMENPC4 about your plan</a1text>
+		<qtext>You decide to keep working but after an hour people are running franticly down the halls. Dave and April stop by your office and tell you that the dead are rising and attacking the living. You check the news online to make sure it's not a joke and see that all the major news outlets are saying the same thing. You decide the best idea is to stockpile supplies and try to barricade yourself on the top floor of the building. Now you wonder whether to share your plan with others or go it alone.</qtext>
+		<a1text>Tell Dave and April about your plan</a1text>
 		<a2text>Do it yourself. Other people will just slow you down</a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="office" time="daytime"/>
 			<hero body="messy stinky suit" face="normal" item="nothing"/>
-			<npc1 character="NAMENPC3" status="normal"/>
-			<npc2 character="NAMENPC4" status="normal"/>
+			<npc1 character="Dave" status="normal"/>
+			<npc2 character="April" status="normal"/>
 		</assets>
 	</page>
 	<page id="03221">
-		<qtext>You help NAMENPC2 back up, and PP2 grabs your arm a bit too tight. You look down as PP2 lunges towards you, biting you in the neck, and blood starts to spray from your open wound. You manage to throw OP2 off but start to feel woozy from the blood loss. You fall to the ground as life fades from your body. A moment later your rise again, a zombie now, and make your way down the hall to attack your coworkers.</qtext>
+		<qtext>You help Charlie back up, and he grabs your arm a bit too tight. You look down as he lunges towards you, biting you in the neck, and blood starts to spray from your open wound. You manage to throw him off but start to feel woozy from the blood loss. You fall to the ground as life fades from your body. A moment later your rise again, a zombie now, and make your way down the hall to attack your coworkers.</qtext>
 		<a1text redirect="0">YOU ARE DEAD! Restart?</a1text>
 		<a2text> - </a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="office" time="daytime"/>
 			<hero body="bloody suit" face="zombified" item="nothing"/>
-			<npc1 character="NAMENPC2" status="zombified"/>
+			<npc1 character="Charlie" status="zombified"/>
 			<npc2 character="none" status="none"/>
 		</assets>
 	</page>
 	<page id="03222">
-		<qtext>You take a step back and watch NAMENPC2 slowly get up off the ground. NAMENPC1 walks by and helps OP1 up, berating you for not lending a hand. Geez, what a suck up. Instead of graciously taking NAMENPC1's hand your boss attacks OP1. You stand there confused until NAMENPC2 rips off NAMENPC1's arms. Holy crap! You run away down the hall past NAMENPC4 who is peering out of an office. NAMENPC1 is not far behind.</qtext>
-		<a1text>Yell at NAMENPC4 to follow you</a1text>
-		<a2text>Keep running. Maybe your boss will slow down to attack NAMENPC4, buying you more time.</a2text>
+		<qtext>You take a step back and watch Charlie slowly get up off the ground. Lindsay walks by and helps her up, berating you for not lending a hand. Geez, what a suck up. Instead of graciously taking Lindsay's hand your boss attacks her. You stand there confused until Charlie rips off Lindsay's arms. Holy crap! You run away down the hall past April who is peering out of an office. Lindsay is not far behind.</qtext>
+		<a1text>Yell at April to follow you</a1text>
+		<a2text>Keep running. Maybe your boss will slow down to attack April, buying you more time.</a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="office" time="daytime"/>
 			<hero body="messy stinky suit" face="panicked" item="nothing"/>
-			<npc1 character="NAMENPC4" status="shocked"/>
-			<npc2 character="NAMENPC1" status="zombified"/>
+			<npc1 character="April" status="shocked"/>
+			<npc2 character="Lindsay" status="zombified"/>
 		</assets>
 	</page>
 	<page id="03311">
@@ -661,20 +661,20 @@
 		<assets>
 			<background location="restaurant" time="daytime"/>
 			<hero body="suit" face="normal" item="nothing"/>
-			<npc1 character="NAMENPC3" status="normal"/>
-			<npc2 character="NAMENPC4" status="normal"/>
+			<npc1 character="Dave" status="normal"/>
+			<npc2 character="April" status="normal"/>
 		</assets>
 	</page>
 	<page id="03312">
 		<qtext>You head back to the office, deciding to hold up there for a while. It's pandamonium, with people trying to leave or get in touch with their families over the phone. Everyone is panicking. You decide the best idea is to stockpile supplies and try to barricade yourself on the top floor of the building. Now you wonder whether to share your plan with others or go it alone.</qtext>
-		<a1text redirect="032131">Tell NAMENPC3 and NAMENPC4 about your plan</a1text>
+		<a1text redirect="032131">Tell Dave and April about your plan</a1text>
 		<a2text redirect="032132">Do it yourself. Other people will just slow you down</a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="office" time="daytime"/>
 			<hero body="suit" face="normal" item="nothing"/>
-			<npc1 character="NAMENPC3" status="normal"/>
-			<npc2 character="NAMENPC4" status="normal"/>
+			<npc1 character="Dave" status="normal"/>
+			<npc2 character="April" status="normal"/>
 		</assets>
 	</page>
 	<page id="03321">
@@ -691,14 +691,14 @@
 	</page>
 	<!-- PAGE 6 -->
 	<page id="011211">
-		<qtext>NAMEROMANTIC says PPROMANTIC would love to meet up for lunch and you ask where you can pick OPROMANTIC up. It turns out that PPROMANTIC lives in your building and is working from home. What a crazy coincidence. You hop in your car and drive to your apartment building, noticing an unusually high number of emergency vehicles on the road. You park out front and enter the lobby, excited to see NAMEROMANTIC again especially now that you know PPROMANTIC lives so close! Instead you see three zombies standing over what used to be the mailman. You freeze as the zombies turn and start to advance towards you. However, they are quickly taken down by three well aimed bullets to the skull. On the other side of the lobby you see NAMEROMANTIC with a smoking pistol. Wow, that was kind of hot! ''It appears the zombie apocolypse is upon us.'' NAMEROMANTIC says. ''Now what should we do?''</qtext>
-		<a1text redirect="031321">Go to your apartment with NAMEROMANTIC and try to zombie-proof the floor</a1text>
-		<a2text redirect="031322">Head to the local bar with NAMEROMANTIC and try to wait out the invasion there</a2text>
+		<qtext>Frank says he would love to meet up for lunch and you ask where you can pick him up. It turns out that he lives in your building and is working from home. What a crazy coincidence. You hop in your car and drive to your apartment building, noticing an unusually high number of emergency vehicles on the road. You park out front and enter the lobby, excited to see Frank again especially now that you know he lives so close! Instead you see three zombies standing over what used to be the mailman. You freeze as the zombies turn and start to advance towards you. However, they are quickly taken down by three well aimed bullets to the skull. On the other side of the lobby you see Frank with a smoking pistol. Wow, that was kind of hot! ''It appears the zombie apocolypse is upon us.'' Frank says. ''Now what should we do?''</qtext>
+		<a1text redirect="031321">Go to your apartment with Frank and try to zombie-proof the floor</a1text>
+		<a2text redirect="031322">Head to the local bar with Frank and try to wait out the invasion there</a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="apartment lobby" time="daytime"/>
 			<hero body="suit" face="normal" item="nothing"/>
-			<npc1 character="NAMEROMANTIC" status="gun"/>
+			<npc1 character="Frank" status="gun"/>
 			<npc2 character="zombie1" status="dead"/>
 		</assets>
 	</page>
@@ -727,7 +727,7 @@
 		</assets>
 	</page>
 	<page id="013211">
-		<qtext>You run naked from the cops into the back of the coffee shop. You unlock a door to a storage room and rush inside. As you close and lock the door you hear one of the baristas yell "Don't go in there! Shawn's in there and there's something wrong with OPHERO". You ignore the plea and lock yourself inside to hide from the cops. However, you realize that you're not alone in there when the zombified remains of Shawn attack you from behind. PPHERO bites deeply into your neck, spraying blood everywhere.</qtext>
+		<qtext>You run naked from the cops into the back of the coffee shop. You unlock a door to a storage room and rush inside. As you close and lock the door you hear one of the baristas yell "Don't go in there! Shawn's in there and there's something wrong with her". You ignore the plea and lock yourself inside to hide from the cops. However, you realize that you're not alone in there when the zombified remains of Shawn attack you from behind. she bites deeply into your neck, spraying blood everywhere.</qtext>
 		<a1text redirect="0">YOU ARE DEAD! Restart?</a1text>
 		<a2text> - </a2text>
 		<a3text> - </a3text>
@@ -739,8 +739,8 @@
 		</assets>
 	</page>
 	<page id="013212">
-		<qtext>You get into a fighting stance as the cops approach, although they don't seem interested in you. A barista says "Thank God the police are here! Shawn took a shipment of scones to the head this morning and then started trying to attack everybody. We locked OPHERO in the storage room in the back". The cops rush past you and open the storage room door. Shawn jumps out to attack but is taken down with several tranquilizer darts. It's only then that the cops notice you. They take both you and Shawn to the police station and throw the two of you into a holding cell. They also force you to put on an orange jumpsuit. You look at your new surroundings and fellow prisoners. So much for your lucky socks.</qtext>
-		<a1text redirect="0131112">There's another prisoner in the cell with facial tattoos. Punching OPHERO in the head seems like a good idea</a1text>
+		<qtext>You get into a fighting stance as the cops approach, although they don't seem interested in you. A barista says "Thank God the police are here! Shawn took a shipment of scones to the head this morning and then started trying to attack everybody. We locked her in the storage room in the back". The cops rush past you and open the storage room door. Shawn jumps out to attack but is taken down with several tranquilizer darts. It's only then that the cops notice you. They take both you and Shawn to the police station and throw the two of you into a holding cell. They also force you to put on an orange jumpsuit. You look at your new surroundings and fellow prisoners. So much for your lucky socks.</qtext>
+		<a1text redirect="0131112">There's another prisoner in the cell with facial tattoos. Punching her in the head seems like a good idea</a1text>
 		<a2text>Talk to the prisoner facial tattoos. You could use a friend in here.</a2text>
 		<a3text> - </a3text>
 		<assets>
@@ -751,8 +751,8 @@
 		</assets>
 	</page>
 	<page id="013213">
-		<qtext>You lie naked on the ground, ready for the cops to arrest you. However, they don't seem particularly interested in you. A barista says "Thank God the police are here! Shawn took a shipment of scones to the head this morning and then started trying to attack everybody. We locked OPHERO in the storage room in the back". The cops rush past you and open the storage room door. You get off the ground to see Shawn jump out, ready to attack but is quickly taken down with several tranquilizer darts. It's only then that the cops notice you. They take both you and Shawn to the police station and throw the two of you into a holding cell. They also force you to put on an orange jumpsuit. You look at your new surroundings and fellow prisoners. So much for your lucky socks.</qtext>
-		<a1text redirect="0131112">There's another prisoner in the cell with facial tattoos. Punching OPHERO in the head seems like a good idea</a1text>
+		<qtext>You lie naked on the ground, ready for the cops to arrest you. However, they don't seem particularly interested in you. A barista says "Thank God the police are here! Shawn took a shipment of scones to the head this morning and then started trying to attack everybody. We locked her in the storage room in the back". The cops rush past you and open the storage room door. You get off the ground to see Shawn jump out, ready to attack but is quickly taken down with several tranquilizer darts. It's only then that the cops notice you. They take both you and Shawn to the police station and throw the two of you into a holding cell. They also force you to put on an orange jumpsuit. You look at your new surroundings and fellow prisoners. So much for your lucky socks.</qtext>
+		<a1text redirect="0131112">There's another prisoner in the cell with facial tattoos. Punching her in the head seems like a good idea</a1text>
 		<a2text redirect="0132122">Talk to the prisoner facial tattoos. You could use a friend in here.</a2text>
 		<a3text> - </a3text>
 		<assets>
@@ -763,7 +763,7 @@
 		</assets>
 	</page>
 	<page id="013223">
-		<qtext>You stand still as the cops rush in and they don't seem particularly interested in you. A barista says "Thank God the police are here! Shawn hit took a shipment of scones to the head this morning and then started trying to attack everybody. We locked OPHERO in the storage room in the back". The cops rush past you and towards the storage room door. You decide that now would be a pretty good time to sneak out of the coffee shop. You look out into the parking lot and see the police cruiser idling next to your car.</qtext>
+		<qtext>You stand still as the cops rush in and they don't seem particularly interested in you. A barista says "Thank God the police are here! Shawn hit took a shipment of scones to the head this morning and then started trying to attack everybody. We locked her in the storage room in the back". The cops rush past you and towards the storage room door. You decide that now would be a pretty good time to sneak out of the coffee shop. You look out into the parking lot and see the police cruiser idling next to your car.</qtext>
 		<a1text>Steal one the cop car</a1text>
 		<a2text redirect="013112">Get in your car and drive home to put on some clothes</a2text>
 		<a3text> - </a3text>
@@ -775,31 +775,31 @@
 		</assets>
 	</page>
 	<page id="021111">
-		<qtext>You try again to let NAMENPC1 know how bad you feel about punching OP1 and offer to buy lunch at Subway. Unfortunately the reanimated corpse of NAMENPC1 is not interested in their delicious foot-long submarine sandwiches. Instead PP1 attacks you, knocking you down in the hallway. The last thing you see are the zombified forms of NAMENPC1 and NAMENPC3 as they begin to tear you apart and devour you.</qtext>
+		<qtext>You try again to let Lindsay know how bad you feel about punching her and offer to buy lunch at Subway. Unfortunately the reanimated corpse of Lindsay is not interested in their delicious foot-long submarine sandwiches. Instead she attacks you, knocking you down in the hallway. The last thing you see are the zombified forms of Lindsay and Dave as they begin to tear you apart and devour you.</qtext>
 		<a1text redirect="0">YOU ARE DEAD! Restart?</a1text>
 		<a2text> - </a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="office" time="daytime"/>
 			<hero body="bloody suit" face="brainless" item="nothing"/>
-			<npc1 character="NAMENPC1" status="zombified"/>
-			<npc2 character="NAMENPC3" status="zombified"/>
+			<npc1 character="Lindsay" status="zombified"/>
+			<npc2 character="Dave" status="zombified"/>
 		</assets>
 	</page>
 	<page id="021121">
-		<qtext>You shout at NAMENPC4 to follow you which PP4 does, after turning to see the zombified remains of two coworkers shuffling down the hallway towards OP4. Your mind races as you try to determine what your next move should be. NAMENPC1 isn't lumbering closer and NAMENPC3 isn't far behind OP1</qtext>
+		<qtext>You shout at April to follow you which she does, after turning to see the zombified remains of two coworkers shuffling down the hallway towards her. Your mind races as you try to determine what your next move should be. Lindsay isn't lumbering closer and Dave isn't far behind her</qtext>
 		<a1text>Head to the roof</a1text>
 		<a2text>Head to the parking garage</a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="office" time="daytime"/>
 			<hero body="messy suit" face="panicked" item="nothing"/>
-			<npc1 character="NAMENPC4" status="shocked"/>
+			<npc1 character="April" status="shocked"/>
 			<npc2 character="none" status="none"/>
 		</assets>
 	</page>
 	<page id="021122">
-		<qtext>You keep running, leaving NAMENPC4 behind. As you turn the corner you hear OP4 asking NAMENPC1 and NAMENPC3 what is wrong. The inqueries are followed shortly by screams as PP4 is almost certainly killed. You pick up speed and try to think of a good place to hide.</qtext>
+		<qtext>You keep running, leaving April behind. As you turn the corner you hear her asking Lindsay and Dave what is wrong. The inqueries are followed shortly by screams as she is almost certainly killed. You pick up speed and try to think of a good place to hide.</qtext>
 		<a1text>Head to the roof</a1text>
 		<a2text>Head to the parking garage</a2text>
 		<a3text> - </a3text>
@@ -835,14 +835,14 @@
 		</assets>
 	</page>
 	<page id="031311">
-		<qtext>You leave the apartment wielding your trusty Louisville Slugger and step into the elevator. As the doors open into the lobby you see three zombies standing over parts of what must have once been the mailman. Using the element of surprise you get a few good swings, killing two of them but leaving yourself vulnerable to the third. It starts to lunge at you but is shot in the head, falling backwards. You look behind yourself and see an attractive neighbor brandishing a smoking pistol. ''NAMEROMANTIC, 5E''. You respond ''NAMEHERO, 7B''. Now what's the plan?</qtext>
-		<a1text redirect="031321">Go to your apartment with NAMEROMANTIC and try to zombie-proof the floor</a1text>
-		<a2text redirect="031322">Head to the local bar with NAMEROMANTIC and try to wait out the invasion there</a2text>
+		<qtext>You leave the apartment wielding your trusty Louisville Slugger and step into the elevator. As the doors open into the lobby you see three zombies standing over parts of what must have once been the mailman. Using the element of surprise you get a few good swings, killing two of them but leaving yourself vulnerable to the third. It starts to lunge at you but is shot in the head, falling backwards. You look behind yourself and see an attractive neighbor brandishing a smoking pistol. ''Frank, 5E''. You respond ''Beatrice, 7B''. Now what's the plan?</qtext>
+		<a1text redirect="031321">Go to your apartment with Frank and try to zombie-proof the floor</a1text>
+		<a2text redirect="031322">Head to the local bar with Frank and try to wait out the invasion there</a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="apartment lobby" time="daytime"/>
 			<hero body="pajamas" face="normal" item="bat"/>
-			<npc1 character="NAMEROMANTIC" status="gun"/>
+			<npc1 character="Frank" status="gun"/>
 			<npc2 character="none" status="none"/>
 		</assets>
 	</page>
@@ -859,67 +859,67 @@
 		</assets>
 	</page>
 	<page id="031321">
-		<qtext>The two of you get back in the elevator and get out on the top floor. As you show NAMEROMANTIC your apartment you find yourself wishing it were a bit cleaner. You tell OPHERO to grab whatever supplies might be in OPHERO apartment while you knock on your neighbors' doors. No answers on the entire floor as they must all be at work. NAMEROMANTIC returns with supplies, but its not much. The two of you are going to need more if the zombie invasion lasts more than a few days.</qtext>
+		<qtext>The two of you get back in the elevator and get out on the top floor. As you show Frank your apartment you find yourself wishing it were a bit cleaner. You tell her to grab whatever supplies might be in her apartment while you knock on your neighbors' doors. No answers on the entire floor as they must all be at work. Frank returns with supplies, but its not much. The two of you are going to need more if the zombie invasion lasts more than a few days.</qtext>
 		<a1text>Break into neighboring apartments and steal their food</a1text>
 		<a2text>Head to the local grocery store by yourself</a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="apartment" time="daytime"/>
 			<hero body="pajamas" face="normal" item="frying pan"/>
-			<npc1 character="NAMEROMANTIC" status="normal"/>
+			<npc1 character="Frank" status="normal"/>
 			<npc2 character="none" status="none"/>
 		</assets>
 	</page>
 	<page id="031322">
-		<qtext>The two of you decide to go to the Winchester, a local bar, and barricade yourselves there. It should have a good supply of food and drinks and hopefully it will be relatively safe.  Before leaving the building NAMEROMANTIC comments on your pajamas and you decided to change into something casual. Properly attired, you walk down the street with your baseball bat ready and NAMEROMANTIC with OPHERO pistol drawn. You make it to the bar without any zombie sightings but the place is closed and no one responds to your knocks.</qtext>
+		<qtext>The two of you decide to go to the Winchester, a local bar, and barricade yourselves there. It should have a good supply of food and drinks and hopefully it will be relatively safe.  Before leaving the building Frank comments on your pajamas and you decided to change into something casual. Properly attired, you walk down the street with your baseball bat ready and Frank with her pistol drawn. You make it to the bar without any zombie sightings but the place is closed and no one responds to your knocks.</qtext>
 		<a1text>Break a window and climb in</a1text>
 		<a2text>Go around back and see if there is another entrance</a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="bar" time="daytime"/>
 			<hero body="casual" face="normal" item="bat"/>
-			<npc1 character="NAMEROMANTIC" status="gun"/>
+			<npc1 character="Frank" status="gun"/>
 			<npc2 character="none" status="none"/>
 		</assets>
 	</page>
 	<page id="032131">
-		<qtext>You tell NAMENPC3 and NAMENPC4 about your plan. They decide to join you and the three of you head to the top floor. After doing a quick sweep you determine that the floor is completely empty as everyone else has gone home to reach their families. You barricade the doors to the stairwell and elevators with bookshelves and other office furniture, working quickly because there are three of you. You all then decide to search the floor for food and weapons.</qtext>
+		<qtext>You tell Dave and April about your plan. They decide to join you and the three of you head to the top floor. After doing a quick sweep you determine that the floor is completely empty as everyone else has gone home to reach their families. You barricade the doors to the stairwell and elevators with bookshelves and other office furniture, working quickly because there are three of you. You all then decide to search the floor for food and weapons.</qtext>
 		<a1text>Search the floor for food</a1text>
 		<a2text>Search the floor for weapons</a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="office" time="daytime"/>
 			<hero body="messy stinky suit" face="normal" item="nothing"/>
-			<npc1 character="NAMENPC3" status="normal"/>
-			<npc2 character="NAMENPC4" status="normal"/>
+			<npc1 character="Dave" status="normal"/>
+			<npc2 character="April" status="normal"/>
 		</assets>
 	</page>
 	<page id="032132">
-		<qtext>You head to top floor alone and do a quick scan, finding it totally empty. It looks like everyone up here left work to reach their families. You start to barricade the elevator and stairwell doors with heavy office furniture, but it takes a long time to do it by yourself. You walk towards the last door you need to barricade just as it opens. You look up, surprised to see your boss NAMENPC2 staring at you. You stammer, unsure of what to say when PP2 lunges at you, scratching you across the throat. You try to call out but only gurgle on your own blood as you drop to the floor and die as a zombified NAMENPC2 starts to eat your brains. Looks like you should have asked for help barricading the floor.</qtext>
+		<qtext>You head to top floor alone and do a quick scan, finding it totally empty. It looks like everyone up here left work to reach their families. You start to barricade the elevator and stairwell doors with heavy office furniture, but it takes a long time to do it by yourself. You walk towards the last door you need to barricade just as it opens. You look up, surprised to see your boss Charlie staring at you. You stammer, unsure of what to say when he lunges at you, scratching you across the throat. You try to call out but only gurgle on your own blood as you drop to the floor and die as a zombified Charlie starts to eat your brains. Looks like you should have asked for help barricading the floor.</qtext>
 		<a1text redirect="0">YOU ARE DEAD! Restart?</a1text>
 		<a2text> - </a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="office" time="daytime"/>
 			<hero body="bloody suit" face="brainless" item="nothing"/>
-			<npc1 character="NAMENPC2" status="zombified"/>
+			<npc1 character="Charlie" status="zombified"/>
 			<npc2 character="none" status="none"/>
 		</assets>
 	</page>
 	<page id="032221">
-		<qtext>You shout at NAMENPC4 to follow you which PP4 does, after turning to see the NAMENPC2 gnawing on NAMENPC1's dismembered corpse. Your mind races as you try to determine what your next move should be.</qtext>
+		<qtext>You shout at April to follow you which she does, after turning to see the Charlie gnawing on Lindsay's dismembered corpse. Your mind races as you try to determine what your next move should be.</qtext>
 		<a1text redirect="0211211">Head to the roof</a1text>
 		<a2text redirect="0211212">Head to the parking garage</a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="office" time="daytime"/>
 			<hero body="messy stinky suit" face="normal" item="nothing"/>
-			<npc1 character="NAMENPC4" status="shocked"/>
-			<npc2 character="NAMENPC2" status="zombified"/>
+			<npc1 character="April" status="shocked"/>
+			<npc2 character="Charlie" status="zombified"/>
 		</assets>
 	</page>
 	<page id="032222">
-		<qtext>You keep running, leaving NAMENPC4 behind. As you turn the corner you hear OP4 asking NAMENPC2 what is wrong. The inqueries are followed shortly by screams as PP4 is almost certainly killed. You pick up speed and try to think of a good place to hide.</qtext>
+		<qtext>You keep running, leaving April behind. As you turn the corner you hear her asking Charlie what is wrong. The inqueries are followed shortly by screams as she is almost certainly killed. You pick up speed and try to think of a good place to hide.</qtext>
 		<a1text redirect="0211221">Head to the roof</a1text>
 		<a2text redirect="0211222">Head to the parking garage</a2text>
 		<a3text> - </a3text>
@@ -931,27 +931,27 @@
 		</assets>
 	</page>
 	<page id="033111">
-		<qtext>You head into the kitchen with NAMENPC3 and NAMENPC4 and make yourselves some lunch. As you finish cooking the chicken you hear the front door open. Jokingly you call out ''we're closed'' before looking up to see four zombies shuffling through the door. The three of you grab the nearest blunt objects, which happen to be three frying pans, and try to fight them off. You manage to kill two with a few well placed swings to the head. You turn to see that NAMENPC3 and NAMENPC4 both killed a zombie each but NAMENPC3 been bitten. NAMENPC3's face looks ashen and you know it's only a matter of a few moments before PP3 is a zombie as well. You look at NAMENPC4, trying to decide who should make the first move</qtext>
-		<a1text>Let NAMENPC4 kill NAMENPC3. You already killed two zombies</a1text>
-		<a2text>Kill NAMENPC3 immediately</a2text>
+		<qtext>You head into the kitchen with Dave and April and make yourselves some lunch. As you finish cooking the chicken you hear the front door open. Jokingly you call out ''we're closed'' before looking up to see four zombies shuffling through the door. The three of you grab the nearest blunt objects, which happen to be three frying pans, and try to fight them off. You manage to kill two with a few well placed swings to the head. You turn to see that Dave and April both killed a zombie each but Dave been bitten. Dave's face looks ashen and you know it's only a matter of a few moments before he is a zombie as well. You look at April, trying to decide who should make the first move</qtext>
+		<a1text>Let April kill Dave. You already killed two zombies</a1text>
+		<a2text>Kill Dave immediately</a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="restaurant" time="daytime"/>
 			<hero body="suit" face="worried" item="frying pan"/>
-			<npc1 character="NAMENPC3" status="bleeding"/>
-			<npc2 character="NAMENPC4" status="shocked"/>
+			<npc1 character="Dave" status="bleeding"/>
+			<npc2 character="April" status="shocked"/>
 		</assets>
 	</page>
 	<page id="033112">
-		<qtext>You, NAMENPC3, and NAMENPC4 succesfully barricade yourselves in the restaurant. A zombified waitress was lurking in the kitchen, but the three of you make short work of her. As night falls the three of you are in disbelief of what has happened - and that you were all able to survive the day.</qtext>
+		<qtext>You, Dave, and April succesfully barricade yourselves in the restaurant. A zombified waitress was lurking in the kitchen, but the three of you make short work of her. As night falls the three of you are in disbelief of what has happened - and that you were all able to survive the day.</qtext>
 		<a1text redirect="0"> You survived the first day! Restart? </a1text>
-		<a2text> * </a2text>
-		<a3text> * </a3text>
+		<a2text> - </a2text>
+		<a3text> - </a3text>
 		<assets>
 			<background location="restaurant" time="night"/>
 			<hero body="suit" face="normal" item="nothing"/>
-			<npc1 character="NAMENPC3" status="normal"/>
-			<npc2 character="NAMENPC4" status="normal"/>
+			<npc1 character="Dave" status="normal"/>
+			<npc2 character="April" status="normal"/>
 		</assets>
 	</page>
 	<page id="033211">
@@ -969,8 +969,8 @@
 	<page id="033213">
 		<qtext>You look around Subway for weapons while the remaining workers and customers flee. You get to work barricading the exits and taking stock of the food supply. As day turns to night you continue to watch the pandamonium unfold on the TV - which is cut abruptly after zombies appear in the shot and devour the news anchors. You have survived the day and considering the food supply, you should be safe here for some time.</qtext>
 		<a1text redirect="0"> You survived the first day! Restart? </a1text>
-		<a2text> * </a2text>
-		<a3text> * </a3text>
+		<a2text> - </a2text>
+		<a3text> - </a3text>
 		<assets>
 			<background location="sandwich shop" time="night"/>
 			<hero body="suit" face="normal" item="nothing"/>
@@ -980,7 +980,7 @@
 	</page>
 	<!-- PAGE 7 -->
 	<page id="0131111">
-		<qtext>Tattoo face actually turns out to be pretty nice and tells you PPHERO is named Jamie, and is a master in martial arts. It's probably a good thing that you decided not to fight OPHERO huh? PPHERO says that the prisoner on the floor is named Shawn and was apparently attacking people at a coffee shop before PPHERO was taken down with a tranquilizer gun. As Jamie finishes this tale you notice Shawn slowly rising, apparently concious again.</qtext>
+		<qtext>Tattoo face actually turns out to be pretty nice and tells you she is named Jamie, and is a master in martial arts. It's probably a good thing that you decided not to fight her huh? she says that the prisoner on the floor is named Shawn and was apparently attacking people at a coffee shop before she was taken down with a tranquilizer gun. As Jamie finishes this tale you notice Shawn slowly rising, apparently concious again.</qtext>
 		<a1text>Talking to Jamie seemed to work out. Go up and talk to Shawn too</a1text>
 		<a2text>Something doesn't seem right. Keep your distance</a2text>
 		<a3text> - </a3text>
@@ -992,7 +992,7 @@
 		</assets>
 	</page>
 	<page id="0131112">
-		<qtext>You walk right up and punch OPHERO in the face. PPHERO recovers quickly and looks at you meanacingly. As PPHERO enters a fighting stance it is obvious that PPHERO knows much more about hand to hand combat than you do. This becomes more apparent as a fist hits the side of your head, followed by another blow, and another. The cops rush in to get OPHERO off you but the damage has already been done. You lay on the ground and bleed to death before medical attention can arrive.</qtext>
+		<qtext>You walk right up and punch her in the face. she recovers quickly and looks at you meanacingly. As she enters a fighting stance it is obvious that she knows much more about hand to hand combat than you do. This becomes more apparent as a fist hits the side of your head, followed by another blow, and another. The cops rush in to get her off you but the damage has already been done. You lay on the ground and bleed to death before medical attention can arrive.</qtext>
 		<a1text redirect="0">YOU ARE DEAD! Restart?</a1text>
 		<a2text> - </a2text>
 		<a3text> - </a3text>
@@ -1004,7 +1004,7 @@
 		</assets>
 	</page>
 	<page id="0132122">
-		<qtext>You start talking to tattoo face, who turns out to be a nice enough guy named Jamie. It also turns out that PPHERO is a master in martial arts, so it's probably a good thing you didn't try to fight OPHERO. You tell Jamie about Shawn, now unconcious on the ground, and how PPHERO was trying to attack the cops in the coffee shop. A few hours pass slowly and then you notice Shawn slowly getting up, apparently concious again.</qtext>
+		<qtext>You start talking to tattoo face, who turns out to be a nice enough guy named Jamie. It also turns out that she is a master in martial arts, so it's probably a good thing you didn't try to fight her. You tell Jamie about Shawn, now unconcious on the ground, and how she was trying to attack the cops in the coffee shop. A few hours pass slowly and then you notice Shawn slowly getting up, apparently concious again.</qtext>
 		<a1text redirect="01311111">Talking to Jamie seemed to work out. Go up and talk to Shawn too</a1text>
 		<a2text redirect="01311112">Something doesn't seem right. Keep your distance</a2text>
 		<a3text> - </a3text>
@@ -1028,19 +1028,19 @@
 		</assets>
 	</page>
 	<page id="0211211">
-		<qtext>You race to the rooftop with NAMENPC4 and look around franticly but the only thing you see is a locked supply closet. You start to think that it was a bad idea to trap yourselves on the roof when NAMENPC4 produces a master key to the building and unlocks the shed. You look at OP4 in surprise and PP4 responds ''I was afraid they were going to fire me so I stole a master key to check my personnel records. Turns out I was wrong. But they were going to get rid of NAMENPC1 although I guess that really doesn't matter now''. The supply closet is filled with decent zombie fighting weapons. You take a sturdy looking mop for long range attacks and pruning shears for anything in close. NAMENPC4 grabs a golf club that was in the corner.</qtext>
+		<qtext>You race to the rooftop with April and look around franticly but the only thing you see is a locked supply closet. You start to think that it was a bad idea to trap yourselves on the roof when April produces a master key to the building and unlocks the shed. You look at her in surprise and she responds ''I was afraid they were going to fire me so I stole a master key to check my personnel records. Turns out I was wrong. But they were going to get rid of Lindsay although I guess that really doesn't matter now''. The supply closet is filled with decent zombie fighting weapons. You take a sturdy looking mop for long range attacks and pruning shears for anything in close. April grabs a golf club that was in the corner.</qtext>
 		<a1text>Stay on the roof and make them come to you</a1text>
 		<a2text>Head down to the garage now that you're armed</a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="office roof" time="daytime"/>
 			<hero body="messy suit" face="normal" item="mop"/>
-			<npc1 character="NAMENPC4" status="golf club"/>
+			<npc1 character="April" status="golf club"/>
 			<npc2 character="none" status="none"/>
 		</assets>
 	</page>
 	<page id="0211212">
-		<qtext>You and NAMENPC4 race down the stairs and across the parking garage to your car. You start it and hit the gas, glad to be leaving work early and in one piece. An emergency broadcast plays on the radio with a terrified broadcaster saying ''The dead are apparently coming back to life. We urge everyone to stay indoors and barricade the entrances''. You look into the rear view mirror and wonder about the fates of your co-workers as you drive away. NAMENPC4 shouts and you swerve to narrowly avoid hitting a car. Time to pay more attention to the road, but where should you go?</qtext>
+		<qtext>You and April race down the stairs and across the parking garage to your car. You start it and hit the gas, glad to be leaving work early and in one piece. An emergency broadcast plays on the radio with a terrified broadcaster saying ''The dead are apparently coming back to life. We urge everyone to stay indoors and barricade the entrances''. You look into the rear view mirror and wonder about the fates of your co-workers as you drive away. April shouts and you swerve to narrowly avoid hitting a car. Time to pay more attention to the road, but where should you go?</qtext>
 		<a1text>Drive to your apartment, where you'll be in familiar surroundings</a1text>
 		<a2text>Drive to the police station, which should be safe</a2text>
 		<a3text>Drive away from the city, where there are hopefully less zombies</a3text>
@@ -1088,14 +1088,14 @@
 		</assets>
 	</page>
 	<page id="0313211">
-		<qtext>You break into the neighboring aptartments and grab all the food you can find, especially anything canned that won't go bad. You find enough stuff to last the two of you a few weeks. When you get back to your apartment NAMEROMANTIC is already filling anything available with water in case it gets shut off and has collected all the candles in your two apartments if the power goes out. As the day goes on you hear screams and gunfire outside, but no noises on your hall. You assume that none of your neighbors are going to make it back tonight. NAMEROMANTIC starts to cook some of the scavanged food for dinner.</qtext>
-		<a1text>Ask NAMEROMANTIC where PPROMANTIC learned to shoot</a1text>
-		<a2text>Ask NAMEROMANTIC if PPROMANTIC thinks we'll make it out of this alive</a2text>
+		<qtext>You break into the neighboring aptartments and grab all the food you can find, especially anything canned that won't go bad. You find enough stuff to last the two of you a few weeks. When you get back to your apartment Frank is already filling anything available with water in case it gets shut off and has collected all the candles in your two apartments if the power goes out. As the day goes on you hear screams and gunfire outside, but no noises on your hall. You assume that none of your neighbors are going to make it back tonight. Frank starts to cook some of the scavanged food for dinner.</qtext>
+		<a1text>Ask Frank where he learned to shoot</a1text>
+		<a2text>Ask Frank if he thinks we'll make it out of this alive</a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="apartment" time="daytime"/>
 			<hero body="pajamas" face="normal" item="nothing"/>
-			<npc1 character="NAMEROMANTIC" status="gun"/>
+			<npc1 character="Frank" status="gun"/>
 			<npc2 character="none" status="none"/>
 		</assets>
 	</page>
@@ -1112,44 +1112,44 @@
 		</assets>
 	</page>
 	<page id="0313221">
-		<qtext>You break a window at the Winchester and climb in followed by NAMEROMANTIC. You hear a faint clicking noise but with the lights off you can't make out its source. A shot rings out and you're on the ground, bleeding from the chest. The lights come on and you see Mitch, the bartender, across the room holding a smoking rifle. "We're not zombies!" NAMEROMANTIC screams, but it's too late for you. "I didn't know" Mitch cries out, overcome by grief. You lay there while NAMEROMANTIC tries to stop the bleeding. As conciousness fades you hear a noise at the window and see a horde of zombies climbing into the bar, attracted by the sound of the gunshot. Mitch and NAMEROMANTIC try to hold them off but are soon overwhelmed. Probably shouldn't have broken that window, huh?</qtext>
+		<qtext>You break a window at the Winchester and climb in followed by Frank. You hear a faint clicking noise but with the lights off you can't make out its source. A shot rings out and you're on the ground, bleeding from the chest. The lights come on and you see Mitch, the bartender, across the room holding a smoking rifle. "We're not zombies!" Frank screams, but it's too late for you. "I didn't know" Mitch cries out, overcome by grief. You lay there while Frank tries to stop the bleeding. As conciousness fades you hear a noise at the window and see a horde of zombies climbing into the bar, attracted by the sound of the gunshot. Mitch and Frank try to hold them off but are soon overwhelmed. Probably shouldn't have broken that window, huh?</qtext>
 		<a1text redirect="0">YOU ARE DEAD! Restart?</a1text>
 		<a2text> - </a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="bar" time="daytime"/>
 			<hero body="bloody casual" face="zombified" item="nothing"/>
-			<npc1 character="NAMEROMANTIC" status="zombified"/>
+			<npc1 character="Frank" status="zombified"/>
 			<npc2 character="bartender" status="zombified"/>
 		</assets>
 	</page>
 	<page id="0313222">
-		<qtext>Checking the back door at the Winchester NAMEROMANTIC knocks. After a moment a nervous bartender opens the door and lets you in. The three of you barricade the bar, take stock of your supplies, and breathe a temporary sigh of relief. You made it through the initial chaos alive.</qtext>
+		<qtext>Checking the back door at the Winchester Frank knocks. After a moment a nervous bartender opens the door and lets you in. The three of you barricade the bar, take stock of your supplies, and breathe a temporary sigh of relief. You made it through the initial chaos alive.</qtext>
 		<a1text redirect="0"> You survived the first day! Restart? </a1text>
-		<a2text> * </a2text>
-		<a3text> * </a3text>
+		<a2text> - </a2text>
+		<a3text> - </a3text>
 		<assets>
 			<background location="bar" time="night"/>
 			<hero body="casual" face="normal" item="nothing"/>
-			<npc1 character="NAMEROMANTIC" status="gun"/>
+			<npc1 character="Frank" status="gun"/>
 			<npc2 character="bartender" status="none"/>
 		</assets>
 	</page>
 	<page id="0321311">
-		<qtext>You search the top floor of the office building for food with NAMENPC4 while NAMENPC3 looks for weapons. There are a few uneaten lunches in the communal fridge and a bunch of snacks and candy in assorted desk drawers. The people who worked up here must have been fat. NAMENPC4 points out that you should fill all the glasses in the kitchen with water, just in case it is turned off later.</qtext>
-		<a1text>Meet back up with NAMENPC3</a1text>
+		<qtext>You search the top floor of the office building for food with April while Dave looks for weapons. There are a few uneaten lunches in the communal fridge and a bunch of snacks and candy in assorted desk drawers. The people who worked up here must have been fat. April points out that you should fill all the glasses in the kitchen with water, just in case it is turned off later.</qtext>
+		<a1text>Meet back up with Dave</a1text>
 		<a2text> - </a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="office" time="daytime"/>
 			<hero body="suit" face="normal" item="lunch box"/>
-			<npc1 character="NAMENPC3" status="normal"/>
+			<npc1 character="Dave" status="normal"/>
 			<npc2 character="none" status="none"/>
 		</assets>
 	</page>
 	<page id="0321312">
-		<qtext>You decide to search for anything that could be used as a weapon while NAMENPC3 and NAMENPC4 look for food. You find a wooden paddle with frat letters on it in an office that has way too many toys. It doesn't look like this guy did a lot of work. A while later you walk into the production room and pry off the sharp arm of a paper cutter, creating a makeshift machete. Disappointed with your search you enter the last office and see a pair of ornamental samurai swords. You take one out of its scabbard and test the blade by swinging it at a chair, slicing it in half. Sweet.</qtext>
-		<a1text redirect="03213111">Meet back up with NAMENPC3 and NAMENPC4</a1text>
+		<qtext>You decide to search for anything that could be used as a weapon while Dave and April look for food. You find a wooden paddle with frat letters on it in an office that has way too many toys. It doesn't look like this guy did a lot of work. A while later you walk into the production room and pry off the sharp arm of a paper cutter, creating a makeshift machete. Disappointed with your search you enter the last office and see a pair of ornamental samurai swords. You take one out of its scabbard and test the blade by swinging it at a chair, slicing it in half. Sweet.</qtext>
+		<a1text redirect="03213111">Meet back up with Dave and April</a1text>
 		<a2text> - </a2text>
 		<a3text> - </a3text>
 		<assets>
@@ -1160,32 +1160,32 @@
 		</assets>
 	</page>
 	<page id="0331111">
-		<qtext>You hesitate and tell NAMENPC4 to kill NAMENPC3. NAMENPC4 steps forward and you are attacked from behind by a zombified waitress that must have been in the back. She starts gnawing at your leg, eventually severing it from your body. The last thing you see is NAMENPC4 standing over you and the waitress, swinging a frying pan at your head.</qtext>
+		<qtext>You hesitate and tell April to kill Dave. April steps forward and you are attacked from behind by a zombified waitress that must have been in the back. She starts gnawing at your leg, eventually severing it from your body. The last thing you see is April standing over you and the waitress, swinging a frying pan at your head.</qtext>
 		<a1text redirect="0">YOU ARE DEAD! Restart?</a1text>
 		<a2text> - </a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="restaurant" time="daytime"/>
 			<hero body="bloody suit" face="bruised" item="nothing"/>
-			<npc1 character="NAMENPC4" status="frying pan"/>
+			<npc1 character="April" status="frying pan"/>
 			<npc2 character="none" status="none"/>
 		</assets>
 	</page>
 	<page id="0331112">
-		<qtext>Quickly and somberly you kill NAMENPC3. Turning back to NAMENPC4 you see a zombified waitress behind NAMENPC4, about to attack. You grab a steak knife on the table next to you and drive it into the waitress' head, putting her down for good. As night falls you and NAMENPC4 take stock of the supplies, check the barricades, and consider yourselves lucky for making it this far.</qtext>
+		<qtext>Quickly and somberly you kill Dave. Turning back to April you see a zombified waitress behind April, about to attack. You grab a steak knife on the table next to you and drive it into the waitress' head, putting her down for good. As night falls you and April take stock of the supplies, check the barricades, and consider yourselves lucky for making it this far.</qtext>
 		<a1text redirect="0"> You survived the first day! Restart? </a1text>
-		<a2text> * </a2text>
-		<a3text> * </a3text>
+		<a2text> - </a2text>
+		<a3text> - </a3text>
 		<assets>
 			<background location="restaurant" time="night"/>
 			<hero body="suit" face="normal" item="nothing"/>
-			<npc1 character="NAMENPC4" status="nothing"/>
-			<npc2 character="NAMENPC3" status="dead"/>
+			<npc1 character="April" status="nothing"/>
+			<npc2 character="Dave" status="dead"/>
 		</assets>
 	</page>
 	<!-- PAGE 8 -->
 	<page id="01311111">
-		<qtext>You walk up to Shawn and put out a hand to help OPHERO up off the floor. Instead of taking your hand PPHERO lunges forward and bites your arm. You scream in pain and Jamie runs over, punching your attacker. Your vision starts to fade and an uncontrollable hunger for the brains of the living takes control. Now, as a zombie you turn and attack Jamie's back, biting OPHERO before PPHERO can throw you off. Within a matter of seconds everyone in the holding cell has become a zombie. The guards look at the scene horrified from outside the gate. Slowly they take aim and fire, shooting you and your fellow prisioners in the head.</qtext>
+		<qtext>You walk up to Shawn and put out a hand to help her up off the floor. Instead of taking your hand she lunges forward and bites your arm. You scream in pain and Jamie runs over, punching your attacker. Your vision starts to fade and an uncontrollable hunger for the brains of the living takes control. Now, as a zombie you turn and attack Jamie's back, biting her before she can throw you off. Within a matter of seconds everyone in the holding cell has become a zombie. The guards look at the scene horrified from outside the gate. Slowly they take aim and fire, shooting you and your fellow prisioners in the head.</qtext>
 		<a1text redirect="0">YOU ARE DEAD! Restart?</a1text>
 		<a2text> - </a2text>
 		<a3text> - </a3text>
@@ -1197,7 +1197,7 @@
 		</assets>
 	</page>
 	<page id="01311112">
-		<qtext>You step back from Shawn as PPHERO slowly stands up. PPHERO has a vacant look, and turns to a skinny prisoner sitting on a bench. PPHERO shuffles over and attacks the skinny prisioner, biting OPHERO repeatedly. You shout for the guards and Jamie jumps into action, grabbing Shawn and throwing OPHERO against the wall, doing considerable damage. A guard arrives, opens the cell, and shocks Jamie with a stun gun. The guard turns and is attacked by the skinny prisioner, who now has the same vacant eyes. The guard loses his stun gun in the process. You turn and realize the cell door is wide open.</qtext>
+		<qtext>You step back from Shawn as she slowly stands up. she has a vacant look, and turns to a skinny prisoner sitting on a bench. she shuffles over and attacks the skinny prisioner, biting her repeatedly. You shout for the guards and Jamie jumps into action, grabbing Shawn and throwing her against the wall, doing considerable damage. A guard arrives, opens the cell, and shocks Jamie with a stun gun. The guard turns and is attacked by the skinny prisioner, who now has the same vacant eyes. The guard loses his stun gun in the process. You turn and realize the cell door is wide open.</qtext>
 		<a1text>Carry Jamie out of the cell</a1text>
 		<a2text>Grab the guard's stun gun and run out of the cell</a2text>
 		<a3text> - </a3text>
@@ -1211,8 +1211,8 @@
 	<page id="01322311">
 		<qtext>You run over the zombie and drive off in the cop car. It's not clear that you'll survive much longer, but you've made it this far completely naked so you've got some serious style.</qtext>
 		<a1text redirect="0"> You survived the first day! Restart? </a1text>
-		<a2text> * </a2text>
-		<a3text> * </a3text>
+		<a2text> - </a2text>
+		<a3text> - </a3text>
 		<assets>
 			<background location="road" time="daytime"/>
 			<hero body="police car" face="normal" item="nothing"/>
@@ -1223,8 +1223,8 @@
 	<page id="01322312">
 		<qtext>Driving up you confirm that it is in fact a zombie. Grabbing a shotgun from the passenger seat you calmly blast its head off as you drive by. It's not clear that you'll survive much longer, but you've made it this far completely naked so you've got some serious style.</qtext>
 		<a1text redirect="0"> You survived the first day! Restart? </a1text>
-		<a2text> * </a2text>
-		<a3text> * </a3text>
+		<a2text> - </a2text>
+		<a3text> - </a3text>
 		<assets>
 			<background location="road" time="daytime"/>
 			<hero body="police car" face="normal" item="nothing"/>
@@ -1233,43 +1233,43 @@
 		</assets>
 	</page>
 	<page id="02112111">
-		<qtext>You and NAMENPC4 decide to stay on the rooftop, armed and ready. You can hear screams coming from inside the building and look over the edge to see people exiting in a panic. You clearly spot the receptionist, who is missing an arm, bite right through the neck of NAMENPC2, her boss. After a few hours the building seems empty but you can hear sirens and see smoke in the distance. Then you hear something else, the whir of a helicopter</qtext>
+		<qtext>You and April decide to stay on the rooftop, armed and ready. You can hear screams coming from inside the building and look over the edge to see people exiting in a panic. You clearly spot the receptionist, who is missing an arm, bite right through the neck of Charlie, her boss. After a few hours the building seems empty but you can hear sirens and see smoke in the distance. Then you hear something else, the whir of a helicopter</qtext>
 		<a1text>Try to attract the helicopter so you can get rescued</a1text>
 		<a2text>It's too far away, head down into the building for supplies</a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="office roof" time="daytime"/>
 			<hero body="casual" face="normal" item="nothing"/>
-			<npc1 character="NAMENPC4" status="nothing"/>
+			<npc1 character="April" status="nothing"/>
 			<npc2 character="none" status="none"/>
 		</assets>
 	</page>
 	<page id="02112112">
-		<qtext>You and NAMENPC4 head down to the garage, weapons in hand. The drive to NAMENPC4's house is surprisingly uneventful. Upon arriving you barricade the house while PP4 takes inventory of food and fills all containers with water. While filling the last pitcher the water trickles and stops. Moments later the power goes out. As night falls the two of you realize just how lucky you were to make it to this point in one piece.</qtext>
+		<qtext>You and April head down to the garage, weapons in hand. The drive to April's house is surprisingly uneventful. Upon arriving you barricade the house while she takes inventory of food and fills all containers with water. While filling the last pitcher the water trickles and stops. Moments later the power goes out. As night falls the two of you realize just how lucky you were to make it to this point in one piece.</qtext>
 		<a1text redirect="0"> You survived the first day! Restart? </a1text>
-		<a2text> * </a2text>
-		<a3text> * </a3text>
+		<a2text> - </a2text>
+		<a3text> - </a3text>
 		<assets>
 			<background location="house" time="night"/>
 			<hero body="suit" face="normal" item="mop"/>
-			<npc1 character="NAMENPC4" status="golf club"/>
+			<npc1 character="April" status="golf club"/>
 			<npc2 character="none" status="none"/>
 		</assets>
 	</page>
 	<page id="02112121">
-		<qtext>Your apartment is closest so you two decide to head there. ''We can stockpile food, weapons, and supplies'' you tell NAMENPC4. You pull up to the building and park behind an overturned mail truck. It ran into a parking meter, snapping it from the ground. You pick up the parking meter and hold it like a baseball bat, glad to have some sort of weapon. Cautiously the two of you enter the lobby. Turning the corner you see three zombies standing over parts of what must have once been the mailman. They don't seem to notice you yet.</qtext>
+		<qtext>Your apartment is closest so you two decide to head there. ''We can stockpile food, weapons, and supplies'' you tell April. You pull up to the building and park behind an overturned mail truck. It ran into a parking meter, snapping it from the ground. You pick up the parking meter and hold it like a baseball bat, glad to have some sort of weapon. Cautiously the two of you enter the lobby. Turning the corner you see three zombies standing over parts of what must have once been the mailman. They don't seem to notice you yet.</qtext>
 		<a1text redirect="02112122">Go back to the car and drive to the police station</a1text>
 		<a2text redirect="02112123">Go back to the car and drive away from the city</a2text>
 		<a3text>Try to run past the zombies and get to the elevator</a3text>
 		<assets>
 			<background location="apartment lobby" time="daytime"/>
 			<hero body="messy suit" face="normal" item="nothing"/>
-			<npc1 character="NAMENPC4" status="normal"/>
+			<npc1 character="April" status="normal"/>
 			<npc2 character="none" status="none"/>
 		</assets>
 	</page>
 	<page id="02112122">
-		<qtext>''Let's head to the police station'' you say to NAMENPC4. ''That's got to be the safest place, right?'' During the drive you pass by several abandoned and burning cars. You see people running and can't tell if they are alive or the undead. You park the car in front of the station. The front doors are wide open and from the outside the place looks abandoned. So much for getting help.</qtext>
+		<qtext>''Let's head to the police station'' you say to April. ''That's got to be the safest place, right?'' During the drive you pass by several abandoned and burning cars. You see people running and can't tell if they are alive or the undead. You park the car in front of the station. The front doors are wide open and from the outside the place looks abandoned. So much for getting help.</qtext>
 		<a1text>Head inside the station to look for help and weapons</a1text>
 		<a2text redirect="02112123">Go back to the car and drive away from the city</a2text>
 		<a3text> - </a3text>
@@ -1281,14 +1281,14 @@
 		</assets>
 	</page>
 	<page id="02112123">
-		<qtext>You decide to drive out of city with NAMENPC4. After only a few minutes you are stuck in the worst traffic jam you've ever seen. Cars everywhere are panicking and honking. With a jolt your car is hit from behind and sandwiched between the two cars in front of you. You can't even open the doors so the two of you roll down the windows to get out. Standing by the car you and NAMENPC4 see zombies attacking people trapped in their cars, making their way up the highway towards you.</qtext>
+		<qtext>You decide to drive out of city with April. After only a few minutes you are stuck in the worst traffic jam you've ever seen. Cars everywhere are panicking and honking. With a jolt your car is hit from behind and sandwiched between the two cars in front of you. You can't even open the doors so the two of you roll down the windows to get out. Standing by the car you and April see zombies attacking people trapped in their cars, making their way up the highway towards you.</qtext>
 		<a1text>Get back and car and hit the gas, trying to break through traffic</a1text>
 		<a2text>Ditch the car and run away from the highway</a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="road" time="daytime"/>
 			<hero body="messy suit" face="normal" item="nothing"/>
-			<npc1 character="NAMENPC4" status="normal"/>
+			<npc1 character="April" status="normal"/>
 			<npc2 character="none" status="none"/>
 		</assets>
 	</page>
@@ -1305,14 +1305,14 @@
 		</assets>
 	</page>
 	<page id="02112212">
-		<qtext>You leave the roof and head back into the stairwell, descending as fast as possible to the parking garage. Halfway down you pass the floor you work on and almost knock into NAMENPC4. You're so glad to see OP4 that you call out, but when PP4 turns your realize that PP4 has become a zombie too, which is at least partially your fault for not warning OP4.</qtext>
-		<a1text>Try to run past OP4 before PP4 can attack</a1text>
-		<a2text>Try to smash NAMENPC4's head against the wall to end the suffering</a2text>
+		<qtext>You leave the roof and head back into the stairwell, descending as fast as possible to the parking garage. Halfway down you pass the floor you work on and almost knock into April. You're so glad to see her that you call out, but when she turns your realize that she has become a zombie too, which is at least partially your fault for not warning her.</qtext>
+		<a1text>Try to run past her before she can attack</a1text>
+		<a2text>Try to smash April's head against the wall to end the suffering</a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="office stairwell" time="daytime"/>
 			<hero body="messy suit" face="normal" item="nothing"/>
-			<npc1 character="NAMENPC4" status="zombified"/>
+			<npc1 character="April" status="zombified"/>
 			<npc2 character="none" status="none"/>
 		</assets>
 	</page>
@@ -1341,39 +1341,39 @@
 		</assets>
 	</page>
 	<page id="03132111">
-		<qtext>NAMEROMANTIC responds that PPROMANTIC learned to shoot as a kid, and even competed in the biathalon during the Winter Olympics. So... not to shabby. As day turns to night the two of you discuss how grateful you are to have survived this initial chaos, but are uncertain about what might be next.</qtext>
+		<qtext>Frank responds that he learned to shoot as a kid, and even competed in the biathalon during the Winter Olympics. So... not to shabby. As day turns to night the two of you discuss how grateful you are to have survived this initial chaos, but are uncertain about what might be next.</qtext>
 		<a1text redirect="0"> You survived the first day! Restart? </a1text>
-		<a2text> * </a2text>
-		<a3text> * </a3text>
+		<a2text> - </a2text>
+		<a3text> - </a3text>
 		<assets>
 			<background location="apartment" time="night"/>
 			<hero body="pajamas" face="normal" item="nothing"/>
-			<npc1 character="NAMEROMANTIC" status="gun"/>
+			<npc1 character="Frank" status="gun"/>
 			<npc2 character="none" status="none"/>
 		</assets>
 	</page>
 	<page id="03132112">
-		<qtext>NAMEROMANTIC responds that PPROMANTIC is confident the two of you can make it. As day turns to night the two of you discuss how grateful you are to have survived this initial chaos, but are uncertain about what might be next.</qtext>
+		<qtext>Frank responds that he is confident the two of you can make it. As day turns to night the two of you discuss how grateful you are to have survived this initial chaos, but are uncertain about what might be next.</qtext>
 		<a1text redirect="0"> You survived the first day! Restart? </a1text>
-		<a2text> * </a2text>
-		<a3text> * </a3text>
+		<a2text> - </a2text>
+		<a3text> - </a3text>
 		<assets>
 			<background location="apartment" time="night"/>
 			<hero body="pajamas" face="normal" item="nothing"/>
-			<npc1 character="NAMEROMANTIC" status="gun"/>
+			<npc1 character="Frank" status="gun"/>
 			<npc2 character="none" status="none"/>
 		</assets>
 	</page>
 	<page id="03213111">
-		<qtext>The three of you discuss your findings. There's enough junk food, lunches, and water to last a week if you ration it carefully. The weaponry is laid out on a conference table - there's a frat paddle, makeshift machete from a paper cutter, and a pair of samurai swords. You call dibs on the swords, NAMENPC3 takes the paddle, and NAMENPC4 grabs the machete. As night falls the three of you feel lucky to be together and alive.</qtext>
+		<qtext>The three of you discuss your findings. There's enough junk food, lunches, and water to last a week if you ration it carefully. The weaponry is laid out on a conference table - there's a frat paddle, makeshift machete from a paper cutter, and a pair of samurai swords. You call dibs on the swords, Dave takes the paddle, and April grabs the machete. As night falls the three of you feel lucky to be together and alive.</qtext>
 		<a1text redirect="0"> You survived the first day! Restart? </a1text>
-		<a2text> * </a2text>
-		<a3text> * </a3text>
+		<a2text> - </a2text>
+		<a3text> - </a3text>
 		<assets>
 			<background location="office" time="night"/>
 			<hero body="suit" face="normal" item="sword"/>
-			<npc1 character="NAMENPC3" status="paddle"/>
-			<npc2 character="NAMENPC4" status="machete"/>
+			<npc1 character="Dave" status="paddle"/>
+			<npc2 character="April" status="machete"/>
 		</assets>
 	</page>
 	<!-- PAGE 9 -->
@@ -1390,7 +1390,7 @@
 		</assets>
 	</page>
 	<page id="013111122">
-		<qtext>You grab the guard's stun gun and run out of the cell as fast as you can. Trying to find the exit you notice that the police station is empty. Finally you make it to the front door and hear a crackling radio from behind the main desk. You jump over the desk and listen intently. "The dead are rising! All officers take to the streets and put these monsters down!" You look up and see Jamie coming towards you with that same vacant look. You try to shock OPHERO but fumble with the stun gun. In a moment PPHERO has knocked you to the ground and in the next moment PPHERO is eating your brains.</qtext>
+		<qtext>You grab the guard's stun gun and run out of the cell as fast as you can. Trying to find the exit you notice that the police station is empty. Finally you make it to the front door and hear a crackling radio from behind the main desk. You jump over the desk and listen intently. "The dead are rising! All officers take to the streets and put these monsters down!" You look up and see Jamie coming towards you with that same vacant look. You try to shock her but fumble with the stun gun. In a moment she has knocked you to the ground and in the next moment she is eating your brains.</qtext>
 		<a1text redirect="0">YOU ARE DEAD! Restart?</a1text>
 		<a2text> - </a2text>
 		<a3text> - </a3text>
@@ -1402,55 +1402,55 @@
 		</assets>
 	</page>
 	<page id="021121111">
-		<qtext>You and NAMENPC4 shout and jump to attract the helicopter, which seems impossibly far away to noice. However, it turns closer and seems to have noticed the commotion you two are making. It lands on the roof top and Chet, the traffic reporter for the local news station, gets out and introduces himself. As night falls the three of you weigh your options, which are considerably improved what with the whole having a helicopter at your disposal</qtext>
+		<qtext>You and April shout and jump to attract the helicopter, which seems impossibly far away to noice. However, it turns closer and seems to have noticed the commotion you two are making. It lands on the roof top and Chet, the traffic reporter for the local news station, gets out and introduces himself. As night falls the three of you weigh your options, which are considerably improved what with the whole having a helicopter at your disposal</qtext>
 		<a1text redirect="0"> You survived the first day! Restart? </a1text>
-		<a2text> * </a2text>
-		<a3text> * </a3text>
+		<a2text> - </a2text>
+		<a3text> - </a3text>
 		<assets>
 			<background location="office roof" time="night"/>
 			<hero body="suit" face="normal" item="mop"/>
-			<npc1 character="NAMENPC4" status="golf club"/>
+			<npc1 character="April" status="golf club"/>
 			<npc2 character="traffic reporter" status="normal"/>
 		</assets>
 	</page>
 	<page id="021121112">
-		<qtext>You and NAMENPC4 head down from the roof and decide to barricade a floor of the office as best you can. Working into the night you feel confident in your defenses, and have raided the office kitchen and coworker desks for supplies and food. NAMENPC4 turns to you and says "I think we're going to be okay"</qtext>
+		<qtext>You and April head down from the roof and decide to barricade a floor of the office as best you can. Working into the night you feel confident in your defenses, and have raided the office kitchen and coworker desks for supplies and food. April turns to you and says "I think we're going to be okay"</qtext>
 		<a1text redirect="0"> You survived the first day! Restart? </a1text>
-		<a2text> * </a2text>
-		<a3text> * </a3text>
+		<a2text> - </a2text>
+		<a3text> - </a3text>
 		<assets>
 			<background location="office" time="daytime"/>
 			<hero body="suit" face="normal" item="mop"/>
-			<npc1 character="NAMENPC4" status="golf club"/>
+			<npc1 character="April" status="golf club"/>
 			<npc2 character="none" status="none"/>
 		</assets>
 	</page>
 	<page id="021121213">
-		<qtext>''Run!'' you yell to NAMENPC4 as you sprint past the three zombies and hit the elevator button. The zombies turn their attention to the two of you as you hear the elevator slowly descending. Crap. Holding the parking meter high you swing down on the closest of the advancing zombies, doing considerable damage to its head. You regain your stance, prepared to take on the other two when the elevator door opens behind you. ''Get in'' a voice calls out following by two quick bursts. You turn and see a girl holding a smoking gun. Glancing over your shoulder you see the two zombies slump to the ground. ''The name's NAMEROMANTIC'' PPROMANTIC says. You and NAMENPC4 introduce yourselves and proceed to barricade your apartment as best you can to survive this nightmare.</qtext>
+		<qtext>''Run!'' you yell to April as you sprint past the three zombies and hit the elevator button. The zombies turn their attention to the two of you as you hear the elevator slowly descending. Crap. Holding the parking meter high you swing down on the closest of the advancing zombies, doing considerable damage to its head. You regain your stance, prepared to take on the other two when the elevator door opens behind you. ''Get in'' a voice calls out following by two quick bursts. You turn and see a girl holding a smoking gun. Glancing over your shoulder you see the two zombies slump to the ground. ''The name's Frank'' he says. You and April introduce yourselves and proceed to barricade your apartment as best you can to survive this nightmare.</qtext>
 		<a1text redirect="0"> You survived the first day! Restart? </a1text>
-		<a2text> * </a2text>
-		<a3text> * </a3text>
+		<a2text> - </a2text>
+		<a3text> - </a3text>
 		<assets>
 			<background location="apartment" time="night"/>
 			<hero body="suit" face="normal" item="parking meter"/>
-			<npc1 character="NAMENPC4" status="normal"/>
-			<npc2 character="NAMEROMANTIC" status="gun"/>
+			<npc1 character="April" status="normal"/>
+			<npc2 character="Frank" status="gun"/>
 		</assets>
 	</page>
 	<page id="021121221">
-		<qtext>You walk into the empty police station with NAMENPC3 and quickly find some guns in a locker room. Exploring further you come across the cells where a zombie shuffles from the shadows. Using your recently acquired guns you quickly dispatch him. Having cleared the station from further threats, you and NAMENPC3 barricade the doors and inventory the food and weapons. As night falls there is less and less chatter on the police radio. The two of you survived the day but you're not sure how many others could have.</qtext>
+		<qtext>You walk into the empty police station with Dave and quickly find some guns in a locker room. Exploring further you come across the cells where a zombie shuffles from the shadows. Using your recently acquired guns you quickly dispatch him. Having cleared the station from further threats, you and Dave barricade the doors and inventory the food and weapons. As night falls there is less and less chatter on the police radio. The two of you survived the day but you're not sure how many others could have.</qtext>
 		<a1text redirect="0"> You survived the first day! Restart? </a1text>
-		<a2text> * </a2text>
-		<a3text> * </a3text>
+		<a2text> - </a2text>
+		<a3text> - </a3text>
 		<assets>
 			<background location="police station" time="daytime"/>
 			<hero body="jumpsuit" face="normal" item="nothing"/>
-			<npc1 character="NAMENPC3" status="normal"/>
+			<npc1 character="Dave" status="normal"/>
 			<npc2 character="prisoner" status="dead"/>
 		</assets>
 	</page>
 	<page id="021121231">
-		<qtext>You get back into the car, yelling at NAMENPC4 to join you but PP4 says no and starts running away from the highway. Whatever. You don't need OP4 anyway. You're able to push your way through to the side of the road and hit the gas, passing hundreds of stopped cars. Just as you start thinking how smart you are another car pulls out in front of you, clearly with the same idea. Unable to stop you crash into it, flipping several times before coming to a rest upside-down. With several broken bones you can't get out of the car. You can't move. You can only wait for the inevitable as the moans of the undead horde come closer.</qtext>
+		<qtext>You get back into the car, yelling at April to join you but she says no and starts running away from the highway. Whatever. You don't need her anyway. You're able to push your way through to the side of the road and hit the gas, passing hundreds of stopped cars. Just as you start thinking how smart you are another car pulls out in front of you, clearly with the same idea. Unable to stop you crash into it, flipping several times before coming to a rest upside-down. With several broken bones you can't get out of the car. You can't move. You can only wait for the inevitable as the moans of the undead horde come closer.</qtext>
 		<a1text redirect="0">YOU ARE DEAD! Restart?</a1text>
 		<a2text> - </a2text>
 		<a3text> - </a3text>
@@ -1462,26 +1462,26 @@
 		</assets>
 	</page>
 	<page id="021121232">
-		<qtext>You and NAMENPC3 ditch the car and run from the highway. The moans of the undead and screams of the living reinforce your decision to abandon the car. As night falls the two of you come across a seemingly abandoned farmhouse. After checking it for people - living or dead - you barricade the doors and assess the resources. There isn't much, but you and NAMENPC3 are glad to be alive</qtext>
+		<qtext>You and Dave ditch the car and run from the highway. The moans of the undead and screams of the living reinforce your decision to abandon the car. As night falls the two of you come across a seemingly abandoned farmhouse. After checking it for people - living or dead - you barricade the doors and assess the resources. There isn't much, but you and Dave are glad to be alive</qtext>
 		<a1text redirect="0"> You survived the first day! Restart? </a1text>
-		<a2text> * </a2text>
-		<a3text> * </a3text>
+		<a2text> - </a2text>
+		<a3text> - </a3text>
 		<assets>
 			<background location="farmhouse" time="night"/>
 			<hero body="suit" face="normal" item="nothing"/>
-			<npc1 character="NAMENPC4" status="normal"/>
+			<npc1 character="April" status="normal"/>
 			<npc2 character="none" status="none"/>
 		</assets>
 	</page>
 	<page id="021122111">
-		<qtext>You try to quietly unbarricade the door but can't help making a fair amount of noise. Hopefully that didn't draw the attention of anything in the building. You slowly open the door, not seeing anyone in the stairway. Phew. Descending the stairs you accidentally knock a fire extinguisher off the wall. It noisily clangs and rolls down the stairs. You chase after it and pick it up, but when you stand you find yourself face to face with the zombified remains of NAMENPC4.</qtext>
-		<a1text>Bash NAMENPC4's head in with the fire extinguisher</a1text>
+		<qtext>You try to quietly unbarricade the door but can't help making a fair amount of noise. Hopefully that didn't draw the attention of anything in the building. You slowly open the door, not seeing anyone in the stairway. Phew. Descending the stairs you accidentally knock a fire extinguisher off the wall. It noisily clangs and rolls down the stairs. You chase after it and pick it up, but when you stand you find yourself face to face with the zombified remains of April.</qtext>
+		<a1text>Bash April's head in with the fire extinguisher</a1text>
 		<a2text redirect="021122112">Run back up to the roof, barricade yourself again, and wait for resuce</a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="office stairwell" time="daytime"/>
 			<hero body="suit" face="normal" item="fire extinguisher"/>
-			<npc1 character="NAMENPC4" status="zombified"/>
+			<npc1 character="April" status="zombified"/>
 			<npc2 character="none" status="none"/>
 		</assets>
 	</page>
@@ -1498,10 +1498,10 @@
 		</assets>
 	</page>
 	<page id="021122121">
-		<qtext>You dash quickly past NAMENPC4 on the stairwell before PP4 can attack. Good things these are slow, lumbering zombies. You get to your car and have a surprisingly uneventful drive back to your apartment. Sure, there were a few undead hordes devouring people on the side of the road, but nothing too crazy. Back in your apartment you bolt the door. Night falls and you're back where you started, only now the dead have risen to feast on the living...</qtext>
+		<qtext>You dash quickly past April on the stairwell before she can attack. Good things these are slow, lumbering zombies. You get to your car and have a surprisingly uneventful drive back to your apartment. Sure, there were a few undead hordes devouring people on the side of the road, but nothing too crazy. Back in your apartment you bolt the door. Night falls and you're back where you started, only now the dead have risen to feast on the living...</qtext>
 		<a1text redirect="0"> You survived the first day! Restart? </a1text>
-		<a2text> * </a2text>
-		<a3text> * </a3text>
+		<a2text> - </a2text>
+		<a3text> - </a3text>
 		<assets>
 			<background location="apartment" time="night"/>
 			<hero body="suit" face="normal" item="nothing"/>
@@ -1510,14 +1510,14 @@
 		</assets>
 	</page>
 	<page id="021122122">
-		<qtext>You reach out and grab NAMENPC4's head, smashing it against the wall. It seems to do the trick as PP4 drops to the ground, finally still. Feeling confident you dare to open the door to your floor and find yourself face to face with your boss, NAMENPC2 who lunges out at you. You try to dodge the attack but slip on NAMENPC4's blood and fall to the ground, breaking your leg. You try to crawl away from NAMENPC2 but PP2 catches up with you, grabs your head, and smashes it against the stairwell floor. Ironic huh?</qtext>
+		<qtext>You reach out and grab April's head, smashing it against the wall. It seems to do the trick as she drops to the ground, finally still. Feeling confident you dare to open the door to your floor and find yourself face to face with your boss, Charlie who lunges out at you. You try to dodge the attack but slip on April's blood and fall to the ground, breaking your leg. You try to crawl away from Charlie but he catches up with you, grabs your head, and smashes it against the stairwell floor. Ironic huh?</qtext>
 		<a1text redirect="0">YOU ARE DEAD! Restart?</a1text>
 		<a2text> - </a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="office stairwell" time="daytime"/>
 			<hero body="bloody suit" face="brainless" item="nothing"/>
-			<npc1 character="NAMENPC2" status="zombified"/>
+			<npc1 character="Charlie" status="zombified"/>
 			<npc2 character="none" status="none"/>
 		</assets>
 	</page>
@@ -1571,10 +1571,10 @@
 		</assets>
 	</page>
 	<page id="0211221111">
-		<qtext>You bash NAMENPC4's head in with a fire extinguisher and get out of the stairwell. Back on your floor of the office you barricade the entrances and scavenge supplies. As night falls you try to sleep but toss and turn with nightmares of NAMENPC4 trying to eat your brains</qtext>
+		<qtext>You bash April's head in with a fire extinguisher and get out of the stairwell. Back on your floor of the office you barricade the entrances and scavenge supplies. As night falls you try to sleep but toss and turn with nightmares of April trying to eat your brains</qtext>
 		<a1text redirect="0"> You survived the first day! Restart? </a1text>
-		<a2text> * </a2text>
-		<a3text> * </a3text>
+		<a2text> - </a2text>
+		<a3text> - </a3text>
 		<assets>
 			<background location="office" time="night"/>
 			<hero body="suit" face="normal" item="nothing"/>
@@ -1585,8 +1585,8 @@
 	<page id="0211222111">
 		<qtext>Heading away from the city on bike you ride parallel to a major highway. There's a massive traffic jam that seems to have become a zombie feeding frenzy. You keep going, but your adrenaline wears out after a few hours and you find yourself at an abandoned farmhouse. After checking it for people - living or dead - you barricade the doors and assess the resources. There isn't much, but you are glad to be alive</qtext>
 		<a1text redirect="0"> You survived the first day! Restart? </a1text>
-		<a2text> * </a2text>
-		<a3text> * </a3text>
+		<a2text> - </a2text>
+		<a3text> - </a3text>
 		<assets>
 			<background location="farmhouse" time="night"/>
 			<hero body="suit" face="normal" item="nothing"/>
@@ -1597,8 +1597,8 @@
 	<page id="0211222112">
 		<qtext>You head to the gun shop on the bike. It's closed and you bang on the door - hoping to attact some living person inside before the dead hear you knocking. A woman opens the door and identifies herself as Penelope, the owner, and bolts the door behind you. Assessing your situation the two of you realize you certainly have enough weapons to improve your chances of survival, but food and water will be an issue in a few days. Exhausted and unsure what to do next you fall into a restless sleep.</qtext>
 		<a1text redirect="0"> You survived the first day! Restart? </a1text>
-		<a2text> * </a2text>
-		<a3text> * </a3text>
+		<a2text> - </a2text>
+		<a3text> - </a3text>
 		<assets>
 			<background location="gun store" time="night"/>
 			<hero body="suit" face="normal" item="gun"/>
@@ -1622,8 +1622,8 @@
 	<page id="01311112111">
 		<qtext>You and Jamie agree to stay in the police station. You barricade the entrances and sweep the building again for survivors and supplies. You find some food but no one else. As night falls you and Jamie coinsider yourselves lucky for having made it through the day.</qtext>
 		<a1text redirect="0"> You survived the first day! Restart? </a1text>
-		<a2text> * </a2text>
-		<a3text> * </a3text>
+		<a2text> - </a2text>
+		<a3text> - </a3text>
 		<assets>
 			<background location="police station" time="night"/>
 			<hero body="jumpsuit" face="normal" item="gun"/>
@@ -1634,7 +1634,7 @@
 	<page id="01311112112">
 		<qtext>You and Jamie head out from the police station. Zombies are lumbering up and down the street so the two of you turn into a nearby alley. As you make your way down the alley you see a group of people staring at something on the ground. You're about to inch closer to assess the situation when Jamie starts firing into the crowd. "Jamie!" you shout "Those might be real people!" but Jamie keeps firing, yelling "Better safe than sorry". The people slump to the ground and Jamie finally stops shooting. "We're safe now" he says, somewhat prematurely as the people get back up to their feet and shuffle towards the two of you. You turn to go the other way but the gunfire attracted more zombies and you're trapped. Using your gun you shoot some but it's clearly hopeless. You save the last bullet for yourself.</qtext>
 		<a1text redirect="0">YOU ARE DEAD! Restart?</a1text>
-		<a2text redirect="01311112122"> * </a2text>
+		<a2text redirect="01311112122"> - </a2text>
 		<a3text> - </a3text>
 		<assets>
 			<background location="alley" time="daytime"/>
@@ -1646,8 +1646,8 @@
 	<page id="01311112121">
 		<qtext>You cautiously head towards the crowd of people at the end of the alley. As you approach you breathe a sigh of relief that they are still very much alive and all seem to be looking at an adorable stray kitten. Aww. Getting your bearings you realize you're not far from your apartment and run there quickly and uneventfully. Back in your apartment you bolt the door. Night falls and you're back where you started, only now the dead have risen to feast on the living...</qtext>
 		<a1text redirect="0"> You survived the first day! Restart? </a1text>
-		<a2text> * </a2text>
-		<a3text> * </a3text>
+		<a2text> - </a2text>
+		<a3text> - </a3text>
 		<assets>
 			<background location="apartment" time="night"/>
 			<hero body="suit" face="normal" item="nothing"/>
@@ -1658,8 +1658,8 @@
 	<page id="01311112122">
 		<qtext>You cautiously head away from the crowd of people at the end of the alley. As you approach the main street you realize you're not far from your apartment and run there quickly and uneventfully. Back in your apartment you bolt the door. Night falls and you're back where you started, only now the dead have risen to feast on the living...</qtext>
 		<a1text redirect="0"> You survived the first day! Restart? </a1text>
-		<a2text> * </a2text>
-		<a3text> * </a3text>
+		<a2text> - </a2text>
+		<a3text> - </a3text>
 		<assets>
 			<background location="apartment" time="night"/>
 			<hero body="suit" face="normal" item="nothing"/>
@@ -1695,8 +1695,8 @@
 	<page id="021122212121">
 		<qtext>You abandon a second car, this one with a zombie sticking through the windshield, and run the remaining blocks back to your apartment, not sure exactly where else to go. Once there you bolt the door. Night falls and you're back where you started, only now the dead have risen to feast on the living...</qtext>
 		<a1text redirect="0"> You survived the first day! Restart? </a1text>
-		<a2text> * </a2text>
-		<a3text> * </a3text>
+		<a2text> - </a2text>
+		<a3text> - </a3text>
 		<assets>
 			<background location="apartment" time="night"/>
 			<hero body="suit" face="normal" item="nothing"/>
@@ -1707,8 +1707,8 @@
 	<page id="021122212122">
 		<qtext>You get back in the car, with the zombie still thrashing in the windshield. Picking up speed you hit the brakes again and both halves skid down the hood. You drive back to your apartment, not sure exactly where else to go. Once there you bolt the door. Night falls and you're back where you started, only now the dead have risen to feast on the living...</qtext>
 		<a1text redirect="0"> You survived the first day! Restart? </a1text>
-		<a2text> * </a2text>
-		<a3text> * </a3text>
+		<a2text> - </a2text>
+		<a3text> - </a3text>
 		<assets>
 			<background location="apartment" time="night"/>
 			<hero body="suit" face="normal" item="nothing"/>
