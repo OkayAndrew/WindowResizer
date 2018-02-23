@@ -1,9 +1,33 @@
 <?xml version="1.0"?>
 <pages>
 	<page id="0">
-		<qtext>Here's the page text.</qtext>
-		<a1text>VERB 1</a1text>
-		<a2text>VERB 2</a2text>
-		<a3text>VERB 3</a3text>
+		<qtext>You wake up in the morning and see a robot in your kitchen. What do you do?</qtext>
+		<a1text>say hi!</a1text>
+		<a2text> - </a2text>
+		<a3text> - </a3text>
+	</page>
+	<page id="01">
+		<qtext>The robot says beep boop beep boop bop! Now what do you do?</qtext>
+		<a1text>laugh</a1text>
+		<a2text>high five</a2text>
+		<a3text>go back to bed</a3text>
+	</page>
+	<page id="011">
+		<qtext>Haha. That's hilarious. You and the robot sit down and have rice krispies for breakfast. The end!</qtext>
+		<a1text redirect="0">start over</a1text>
+		<a2text> - </a2text>
+		<a3text> - </a3text>
+	</page>
+	<page id="012">
+		<qtext>Nice high five! You and the robot sit down and have cheerios for breakfast. The end!</qtext>
+		<a1text redirect="0">start over</a1text>
+		<a2text> - </a2text>
+		<a3text> - </a3text>
+	</page>
+	<page id="013">
+		<qtext>You go back to bed and fall asleep. The end!</qtext>
+		<a1text redirect="0">start over</a1text>
+		<a2text> - </a2text>
+		<a3text> - </a3text>
 	</page>
 </pages>
