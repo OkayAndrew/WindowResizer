@@ -22,7 +22,7 @@
 		<qtext>Arriving you see Parka and ask "Hey - is everything okay?". Parka replies "Yes, yes... I trust the messenger bird reached your home? Good. Thank you for coming on such short notice. I had to... well... see for yourself" and with that, Parka gestures towards a top hat on a table</qtext>
 		<a1text>Reply "A hat?"</a1text>
 		<a2text redirect="0211">Examine the hat silently</a2text>
-		<a3text>Annoyed at OP2 you blurt out "You woke me up for this?"</a3text>
+		<a3text>Annoyed at him you blurt out "You woke me up for this?"</a3text>
 	</page>
 	<page id="0211">
 		<qtext>Parka starts "This hat arrived via messenger bird last night. Just the hat - no note. No indication of who sent it"
