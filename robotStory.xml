@@ -3,29 +3,65 @@
 	<page id="0">
 		<qtext>You wake up in the morning and see a robot in your kitchen. What do you do?</qtext>
 		<a1text>say hi!</a1text>
-		<a2text> - </a2text>
-		<a3text> - </a3text>
-	</page>
-	<page id="01">
-		<qtext>The robot says beep boop beep boop bop! Now what do you do?</qtext>
-		<a1text>laugh</a1text>
-		<a2text>high five</a2text>
+		<a2text>dance</a2text>
 		<a3text>go back to bed</a3text>
 	</page>
-	<page id="011">
-		<qtext>Haha. That's hilarious. You and the robot sit down and have rice krispies for breakfast. The end!</qtext>
+	<page id="01">
+		<qtext>After you say hi the robot says beep boop beep boop bop! Now what do you do?</qtext>
+		<a1text>laugh</a1text>
+		<a2text>high five</a2text>
+		<a3text redirect="03">go back to bed</a3text>
+	</page>
+	<page id="02">
+		<qtext>The robot starts dancing too. Shake your robot booty! Now that the dance is over you're hungry for breakfast. What do you eat?</qtext>
+		<a1text>cheerios</a1text>
+		<a2text>rice krispies</a2text>
+		<a3text>pancakes</a3text>
+	</page>
+	<page id="03">
+		<qtext>You go back to bed and fall asleep. The end!</qtext>
 		<a1text redirect="0">start over</a1text>
 		<a2text> - </a2text>
 		<a3text> - </a3text>
+	</page>
+	<page id="011">
+		<qtext>You and the robot both laugh. Now you're feeling hungry, but what should you eat?</qtext>
+		<a1text redirect="021">cheerios</a1text>
+		<a2text redirect="022">rice krispies</a2text>
+		<a3text redirect="023">pancakes</a3text>
 	</page>
 	<page id="012">
-		<qtext>Nice high five! You and the robot sit down and have cheerios for breakfast. The end!</qtext>
+		<qtext>Nice high five. The robot asks if you want something for breakfast. What do you say?</qtext>
+		<a1text redirect="021">cheerios</a1text>
+		<a2text redirect="022">rice krispies</a2text>
+		<a3text redirect="023">pancakes</a3text>
+	</page>
+	<page id="021">
+		<qtext>You eat all of the cheerios and put your bowl on the counter near the sink. The robot asks what you'd like to do this morning.</qtext>
+		<a1text>ride bikes</a1text>
+		<a2text>dance</a2text>
+		<a3text redirect="03">go back to bed</a3text>
+	</page>
+	<page id="022">
+		<qtext>Yum. Those rice krispies were delicious. Now that your belly is full what do you and the robot want to do?</qtext>
+		<a1text redirect="0211">ride bikes</a1text>
+		<a2text redirect="0212">dance</a2text>
+		<a3text redirect="03">go back to bed</a3text>
+	</page>
+	<page id="023">
+		<qtext>The robot makes pancakes that are shaped like Mickey Mouse. After eating them you thank the robot for making breakfast. Now what do you want to do?</qtext>
+		<a1text redirect="0211">ride bikes</a1text>
+		<a2text redirect="0212">dance</a2text>
+		<a3text redirect="03">go back to bed</a3text>
+	</page>
+	<page id="0211">
+		<qtext>You and the robot ride bikes together all morning. After a lot of riding you get tired and decide to head back inside and take a nap. The end!</qtext>
 		<a1text redirect="0">start over</a1text>
 		<a2text> - </a2text>
 		<a3text> - </a3text>
 	</page>
-	<page id="013">
-		<qtext>You go back to bed and fall asleep. The end!</qtext>
+	<page id="0212">
+		<qtext>You and the robot have an awesome dance party. After a lot of dancing you get tired and decide to take a nap. The end!</qtext>
 		<a1text redirect="0">start over</a1text>
 		<a2text> - </a2text>
 		<a3text> - </a3text>
