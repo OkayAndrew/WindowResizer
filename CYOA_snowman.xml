@@ -7,26 +7,26 @@
 		<a3text> - </a3text>
 	</page>
 	<page id="01">
-		<qtext>You pet the bird and introduce yourself - "Hi there! I'm NPC1. You must be delivering something important if you're here before breakfast. Let me see this note..."</qtext>
+		<qtext>You pet the bird and introduce yourself - "Hi there! I'm Aurora. You must be delivering something important if you're here before breakfast. Let me see this note..."</qtext>
 		<a1text redirect="02">Read note</a1text>
 		<a2text> - </a2text>
 		<a3text> - </a3text>
 	</page>
 	<page id="02">
-		<qtext>You read the note. "NPC1 - Need your help. Come see me as soon as you wake up. - NPC2." That's a little vague - NPC2 isn't usally so dramatic. You decide you better go see what the old bear needs.</qtext>
-		<a1text>Thank the bird and head to NPC2's den</a1text>
+		<qtext>You read the note. "Aurora - Need your help. Come see me as soon as you wake up. - Parka." That's a little vague - Parka isn't usally so dramatic. You decide you better go see what the old bear needs.</qtext>
+		<a1text>Thank the bird and head to Parka's den</a1text>
 		<a2text> - </a2text>
 		<a3text> - </a3text>
 	</page>
 	<page id="021">
-		<qtext>Arriving you see NPC2 and ask "Hey - is everything okay?". NPC2 replies "Yes, yes... I trust the messenger bird reached your home? Good. Thank you for coming on such short notice. I had to... well... see for yourself" and with that, NPC2 gestures towards a top hat on a table</qtext>
+		<qtext>Arriving you see Parka and ask "Hey - is everything okay?". Parka replies "Yes, yes... I trust the messenger bird reached your home? Good. Thank you for coming on such short notice. I had to... well... see for yourself" and with that, Parka gestures towards a top hat on a table</qtext>
 		<a1text>Reply "A hat?"</a1text>
 		<a2text redirect="0211">Examine the hat silently</a2text>
 		<a3text>Annoyed at OP2 you blurt out "You woke me up for this?"</a3text>
 	</page>
 	<page id="0211">
-		<qtext>NPC2 starts "This hat arrived via messenger bird last night. Just the hat - no note. No indication of who sent it"
-"A gift perhaps?" NPC1 offers
+		<qtext>Parka starts "This hat arrived via messenger bird last night. Just the hat - no note. No indication of who sent it"
+"A gift perhaps?" Aurora offers
 "Top hats aren't exactly my style. It is THE MOST FAMOUS HAT EVER!"</qtext>
 		<a1text>No freaking way</a1text>
 		<a2text>Stay silent</a2text>
